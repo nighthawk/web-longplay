@@ -1,0 +1,100 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: Georgia, serif; // Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$large-font-size:  $base-font-size * 1.5;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color-light:       #111;
+$text-color-dark:        #fdfdfd;
+$background-color-light: #fdfdfd;
+$background-color-dark:  #111;
+$brand-color-light:      #2a7ae2;
+$brand-color-dark:       #69a5f3;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// apps
+$feature-title-color: $text-color-light;
+$feature-text-color: $grey-color;
+$feature-icons-foreground-color: $brand-color-light;
+$feature-icons-background-color: $grey-color-light;
+$feature-icons-foreground-color-dark: $brand-color-dark;
+$feature-icons-background-color-dark: $grey-color-dark;
+
+// code highlighting
+$base00-light: #fafafa !default;
+$base01-light: #073642 !default;
+$base02-light: #586e75 !default;
+$base03-light: #657b83 !default;
+$base04-light: #839496 !default;
+$base05-light: #586e75 !default;
+$base06-light: #eee8d5 !default;
+$base07-light: #fdf6e3 !default;
+$base08-light: #dc322f !default;
+$base09-light: #cb4b16 !default;
+$base0a-light: #b58900 !default;
+$base0b-light: #859900 !default;
+$base0c-light: #2aa198 !default;
+$base0d-light: #268bd2 !default;
+$base0e-light: #6c71c4 !default;
+$base0f-light: #d33682 !default;
+
+$base00-dark: #263238;
+$base01-dark: #2e3c43;
+$base02-dark: #314549;
+$base03-dark: #546e7a;
+$base04-dark: #b2ccd6;
+$base05-dark: #eeffff;
+$base06-dark: #eeffff;
+$base07-dark: #ffffff;
+$base08-dark: #f07178;
+$base09-dark: #f78c6c;
+$base0a-dark: #ffcb6b;
+$base0b-dark: #c3e88d;
+$base0c-dark: #89ddff;
+$base0d-dark: #82aaff;
+$base0e-dark: #c792ea;
+$base0f-dark: #ff5370;
+
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "bigfoot-default",
+        "layout",
+        "syntax-highlighting",
+        "app",
+        "so-simple",
+        "testimonials"
+;

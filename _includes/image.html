@@ -1,0 +1,6 @@
+<div class="image-block" style="width:{{ include.width }}px; text-align:center;">
+  {% if include.link %}<a href="{{ include.link }}">{% endif %}
+  <img src="{{ include.url }}" alt="{{ include.description }}"/><br/>
+  {% if include.link %}</a>{% endif %}
+  <em>{{ include.description }}</em>
+</div>

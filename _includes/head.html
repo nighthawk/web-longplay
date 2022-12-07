@@ -1,0 +1,49 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  
+  <link rel="shortcut icon" href="/images/favicon.ico" />
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+	<script src="https://kit.fontawesome.com/a13ecb1de8.js" crossorigin="anonymous"></script>
+
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="/scripts/bigfoot.min.js"></script>
+  <script type="text/javascript">
+    $.bigfoot({
+      actionOriginalFN: "hide"
+    });
+  </script> 
+
+  <link rel="stylesheet" href="{{ "/css/flexslider.css" | prepend: site.baseurl }}" />
+  <script type="text/javascript" src="/scripts/jquery.flexslider-min.js"></script>
+  <!-- <script type="text/javascript" src="/scripts/masonry.pkgd.min.js"></script> -->
+  <script type="text/javascript">
+    $(window).load(function() {
+      $('.testimonials-flexslider').flexslider({
+        animation: "fade",
+        directionNav: true,
+        slideshowSpeed: 5000,
+        animationSpeed: 600,
+        smoothHeight: true,
+        touch: true,
+        smoothHeight: true
+      });
+    });
+
+    // $('.cd-testimonials-all-wrapper').children('ul').masonry({
+    //   itemSelector: '.cd-testimonials-item'
+    // });
+  </script> 
+
+  
+  {% seo %}
+</head>

@@ -1,0 +1,289 @@
+
+/* -------------------------------- 
+
+Main components 
+
+-------------------------------- */
+
+.testimonials-wrapper {
+	position: relative;
+	width: 90%;
+	background-color: $feature-icons-background-color;
+	margin: 2em auto;
+	padding: 20px 40px 20px;
+	z-index: 1;
+
+	&::after {
+		/* quotation mark */
+		content: '\201C';
+		position: absolute;
+		top: 10px;
+		left: 0;
+		width: 50px;
+		height: 50px;
+		padding-top: 8px;
+		margin-left: -25px;
+		background: rgba(darken($feature-icons-background-color, 10%), .9);
+		font-family: $base-font-family;
+        color: $feature-icons-foreground-color;
+        font-size: 70px;
+		text-align: center;
+		/* visible on big devices only */
+		// display: none;
+    }
+    
+    .flex-control-nav {
+        width: 90%;
+    }
+
+    .flex-control-paging li a {
+        background-color: $feature-icons-background-color;
+    }
+
+    .flex-control-paging li a.flex-active {
+        background-color: $feature-icons-foreground-color;
+    }
+
+    .flex-control-paging li a:hover {
+        background-color: $feature-icons-foreground-color;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .testimonials-wrapper {
+        background-color: $feature-icons-background-color-dark;
+
+        &::after {
+            background: rgba(darken($feature-icons-background-color-dark, 10%), .9);
+            color: $feature-icons-foreground-color-dark;
+        }
+
+        .flex-control-paging li a {
+            background-color: $feature-icons-background-color-dark;
+        }
+
+        .flex-control-paging li a.flex-active {
+            background-color: $feature-icons-foreground-color-dark;
+        }
+    
+        .flex-control-paging li a:hover {
+            background-color: $feature-icons-foreground-color-dark;
+        }               
+    }
+}
+
+.testimonials-list {
+	color: $text-color-light;
+	text-align: center;
+	@include clearfix;
+
+	> li {
+		position: absolute;
+		opacity: 0;
+
+		&:first-child {
+			position: relative;
+			opacity: 1;
+		}
+	}
+
+	p {
+        font-family: $base-font-family;
+        font-size: $large-font-size;
+		font-style: italic;
+		line-height: 1.4;
+		margin-bottom: 1em;
+		padding: 0 14px; 
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .testimonials-list {
+        color: $text-color-dark;
+    }
+}
+
+.testimonials-author {
+    ul {
+        margin: 0px;
+    }
+
+	img, .testimonials-author-info {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	img {
+		width: 32px;
+		height: 32px;
+		border-radius: 50%;
+		margin-right: 5px;
+		box-shadow: 0 0 6px rgba(#000, .3);
+	}
+
+	.testimonials-author-info {
+		text-align: left;
+        line-height: 1.2;
+        
+        li {
+            display: list-item;
+            list-style-type: none;
+        }
+
+		li:first-child {
+            font-size: $base-font-size;
+		}
+
+		// li:last-child {
+        //     font-size: $small-font-size;
+		// 	color: lighten($background-color-light, 20%);
+		// }
+	}
+}
+
+// .cd-see-all {
+// 	position: absolute;
+// 	z-index: 1;
+// 	left: 0;
+// 	bottom: 0;
+// 	width: 100%;
+// 	height: 50px;
+// 	line-height: 50px;
+// 	background-color: darken($background-color-light, 8%);
+// 	text-align: center;
+// 	text-transform: uppercase;
+// 	color: lighten($background-color-light, 20%);
+// 	font-weight: 700;
+//     font-size: $small-font-size;
+// 	// @include transition(color, .2s);
+
+// 	.no-touch &:hover {
+// 		color: $grey-color-light;
+// 	}
+// }
+
+// .cd-testimonials-all {
+// 	position: fixed;
+// 	top: 0;
+// 	left: 0;
+// 	height: 100%;
+// 	width: 100%;
+// 	background-color: $background-color-light;
+// 	z-index: 2;
+// 	visibility: hidden;
+// 	opacity: 0;
+// 	-webkit-transition: opacity .3s 0s, visibility 0s .3s;
+// 	-moz-transition: opacity .3s 0s, visibility 0s .3s;
+// 	transition: opacity .3s 0s, visibility 0s .3s;
+
+// 	.cd-testimonials-all-wrapper {
+// 		position: absolute;
+// 		left: 0;
+// 		top: 0;
+// 		height: 100%;
+// 		width: 100%;
+// 		overflow: auto;
+
+// 		> ul {
+// 			width: 90%;
+// 			margin: 4em auto;
+// 			@include clearfix;
+// 		}
+// 	}
+
+// 	.cd-testimonials-item {
+// 		margin-bottom: 2em;
+// 		opacity: 0;
+// 		/* Force Hardware Acceleration in WebKit */
+// 		// @include transform(translate3d(0, 0, 0) scale(.4));
+// 		-webkit-backface-visibility: hidden;
+// 		backface-visibility: hidden;
+
+// 		-webkit-transition: -webkit-transform .3s, opacity .3s;
+// 		-moz-transition: -moz-transform .3s, opacity .3s;
+// 		transition: transform .3s, opacity .3s;
+// 	}
+
+// 	p {
+// 		position: relative;
+// 		background: $grey-color-light;
+// 		color: $text-color-light;
+// 		padding: 2em;
+// 		line-height: 1.4;
+// 		// @include border-radius;
+// 		margin-bottom: 1em;
+
+// 		&::after {
+// 			/* creating the triangle in css */
+// 			content: '';
+// 			position: absolute;
+// 			top: 100%;
+// 			left: 2em;
+// 			height: 0;
+// 			width: 0;
+// 			border: 8px solid transparent;
+// 			border-top-color: $grey-color-light;
+// 		}
+// 	}
+
+// 	.cd-author {
+// 		text-align: left;
+// 		margin-left: 1.5em;
+
+// 		img {
+// 			box-shadow: 0 0 0 rgba(#000, 0);
+// 		}
+// 	}
+
+// 	&.is-visible {
+// 		visibility: visible;
+// 		opacity: 1;
+// 		-webkit-transition: opacity .3s 0s, visibility 0s 0s;
+// 		-moz-transition: opacity .3s 0s, visibility 0s 0s;
+// 		transition: opacity .3s 0s, visibility 0s 0s;
+
+// 		.cd-testimonials-all-wrapper { 
+// 			-webkit-overflow-scrolling: touch;
+// 		}
+
+// 		.cd-testimonials-item {
+// 			// @include animation(cd-slide-in .3s);
+// 			opacity: 1;
+// 			// @include transform(translate3d(0, 0, 0) scale(1));
+// 		}
+// 	}
+// }
+
+// .close-btn {
+// 	position: fixed;
+// 	display: block;
+// 	width: 40px;
+// 	height: 40px;
+// 	top: 10px;
+// 	right: 5%;
+
+// 	/* image replacement */
+// 	overflow: hidden;
+// 	text-indent: 100%;
+// 	white-space: nowrap;
+
+// 	&::before, &::after {
+// 		/* close icon in css */
+// 		content: '';
+// 		position: absolute;
+// 		display: inline-block;
+// 		width: 2px;
+// 		height: 24px;
+// 		top: 8px;
+// 		left: 19px;
+// 		background-color: $background-color-light;
+// 	}
+
+// 	// &::before {
+// 	// 	@include transform(rotate(45deg));
+// 	// }
+
+// 	// &::after {
+// 	// 	@include transform(rotate(-45deg));
+// 	// }
+// }

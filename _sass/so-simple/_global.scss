@@ -1,0 +1,118 @@
+/* ==========================================================================
+   Site-wide
+   ========================================================================== */
+
+.skip-links {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+}
+
+.site-nav {
+  display: block;
+  margin-bottom: 1em;
+  text-align: center;
+
+  ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0.25em 0.75em;
+    list-style: none;
+    color: $nav-color;
+    background-color: $nav-background-color;
+    border-radius: 0 0 (2 * $border-radius) (2 * $border-radius);
+  }
+
+  li {
+    display: inline-block;
+    font-size: 0.75em;
+  }
+
+  a {
+    display: block;
+    padding: 0.5em 0.75em;
+    color: $nav-color;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid $nav-background-color;
+    border-radius: $border-radius;
+
+    &:hover {
+      border-color: $nav-color;
+    }
+  }
+}
+
+.masthead {
+  @include clearfix;
+  margin-bottom: 3em;
+  text-align: center;
+}
+
+.site-title {
+  margin: 0.5em 0 0;
+  padding: 0;
+  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
+  font-weight: 700;
+
+  a {
+    color: $text-color-light;
+    text-decoration: none;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-title a {
+    color: $text-color-dark;
+  }
+}
+
+.site-description {
+  margin-bottom: 1em;
+  font-family: $description-font-family;
+  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+  font-weight: 400;
+  font-style: italic;
+}
+
+.site-logo {
+  display: inline-block;
+  position: relative;
+  z-index: 10;
+}
+
+.site-logo-img {
+  width: $site-logo-width;
+  height: $site-logo-height;
+  border: 5px solid $background-color;
+  border-radius: $site-logo-width;
+
+  @include breakpoint($medium) {
+    width: 1.5 * $site-logo-width;
+    height: 1.5 * $site-logo-height;
+    border-radius: 1.5 * $site-logo-width;
+  }
+
+  @include breakpoint($large) {
+    width: 2 * $site-logo-width;
+    height: 2 * $site-logo-height;
+    border-radius: 2 * $site-logo-width;
+  }
+}
+
+.copyright {
+  color: lighten($text-color, 35%);
+  font-size: 0.75em;
+  text-align: center;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    color: lighten($text-color, 35%);
+  }
+}

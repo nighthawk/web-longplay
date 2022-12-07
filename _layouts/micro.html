@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<div class="microblog-post-alone">
+ {{ content }}
+ <footer>
+   <small><time datetime={{ page.date | date_to_xmlschema }}><a href="{{ page.url }}" title="Permalink">→ {{ page.date | date: "%a, %d %b %Y at %H:%M" }}</a></time></small>
+ </footer>
+</div>

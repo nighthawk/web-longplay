@@ -1,0 +1,56 @@
+# Site settings
+title: Longplay
+subtitle: Album player for iOS
+logo: /images/longplay/icon.png
+
+author: 
+  name: Adrian Schönig
+  email: adrian@schoenig.me
+copyright: |
+  © 2020-2022 [Adrian Schönig](https://adrian.schoenig.me/).
+
+  Powered by [Jekyll](https://jekyllrb.com) & [GitLab](https://gitlab.com). Theme based on [So Simple](https://github.com/mmistakes/so-simple-theme). [Stats](https://nighthawk.goatcounter.com) powered by [GoatCounter](https://www.goatcounter.com).
+description: >
+  Longplay is the iOS app for music lovers who enjoy listening to full albums but have a hard time finding them in their music library. It provides a beautiful view of the album artworks of the (near) complete albums in your music library with one-tap access to play them.
+baseurl: ""
+url: "https://longplay.app"
+timezone: Australia/Sydney
+encoding: UTF-8
+
+mastodon:
+  username: longplay
+  instance: indieapps.space
+
+goatcounter: nighthawk
+
+# Regular posts
+markdown: kramdown
+excerpt_separator: <!--more-->
+
+permalink: pretty
+
+collections:
+  posts:
+    output: true
+    permalink: "/blog/:year/:title/"
+  microposts:
+    output: true
+    permalink: /micro/:year/:month/:name.html
+
+defaults:
+  - scope:
+      path: ""
+      type: microposts
+    values:
+      layout: micro
+
+pagination:
+  enabled: true
+  sort_reverse: true
+  permalink: '/page/:num/'
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-twitter-plugin
+  - jekyll/mastodon_webfinger

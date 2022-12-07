@@ -1,0 +1,20 @@
+---
+layout: page
+title: Microblog
+permalink: /micro/
+published: False
+---
+<section class="microblog-posts">
+  {% for micro in site.microposts reversed %}
+  <div class="microblog-post">
+    {{ micro.content }}
+    <footer>
+      <small><time datetime={{ micro.date | date_to_xmlschema }}><a href="{{ micro.url }}" title="Permalink">→ {{ micro.date | date: "%a, %d %b %Y at %H:%M" }}</a></time></small>
+    </footer>
+  </div>
+  {% endfor %}
+</section>
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.microblog.json" | prepend: site.baseurl }}">via JSON</a></p>
+
+    

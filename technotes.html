@@ -1,0 +1,24 @@
+---
+layout: page
+title: Tech Notes
+permalink: /technotes/
+published: False
+---
+
+<div class="home">
+
+  <blockquote>A collection of primarily development-related posts, about issues that I encounter and how I fixed them. Hopefully should be helpful for other developers!</blockquote>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.technote %}
+      <li>
+         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <br/><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+
+          <p><span class="post-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</span> <a href="{{ post.url | prepend: site.baseurl }}">more…</a></p>
+      </li>
+      {% endif %}
+   {% endfor %}
+  </ul>
+
+</div>

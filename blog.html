@@ -1,0 +1,83 @@
+---
+layout: default
+pagination:
+  enabled: true
+  collection: posts, microposts
+published: False
+---
+
+<div class="home">
+
+  {% if paginator.total_pages > 1 %}
+    <nav id="nav-above" class="navigation" role="navigation">
+      {% if paginator.previous_page %}
+      <div class="nav-next">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts →</a>
+      </div>
+      {% endif %}
+    </nav>
+  {% endif %}
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+
+        {% if post.technote %}
+
+          <span class="post-note">
+          Tech Note: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+          </span>
+
+          <span class="post-meta">{{ post.date | date: " %-d %B %Y" }}</span>
+
+        {% elsif post.layout == "micro" %}
+
+          {% assign start = post.content | strip_html | slice: 0 %}
+          {% unless start == "@" %}
+            <span class="microblog-post">
+              {{ post.content }}
+              <footer>
+                <small><time datetime={{ post.date | date_to_xmlschema }}><a href="{{ post.url }}" title="Permalink">→ {{ post.date | date: "%a, %d %b %Y at %H:%M" }}</a></time></small>
+              </footer>
+            </span>
+          {% endunless %}
+
+        {% else %}
+
+          <div class="post-head">
+            <span class="post-link">
+            {% if post.link %}
+              <a href="{{ post.link }}">{{ post.title }}<span class="post-link-external"></span></a> 
+            {% else %}
+              {{ post.title }}
+            {% endif %}
+            </span>
+
+            <span class="post-meta">{{ post.date | date: " %-d %B %Y" }} &middot; <a href="{{ post.url | prepend: site.baseurl }}">∞</a></span>
+          </div>
+
+          {{ post.content }}
+          
+          <hr/>
+          
+        {% endif %}
+
+      </li>
+    {% endfor %}
+
+
+  </ul>
+
+  {% if paginator.total_pages > 1 %}
+  <nav id="nav-below" class="navigation" role="navigation">
+    {% if paginator.next_page %}
+    <div class="nav-previous">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">← Older posts</a>
+    </div>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> or <a href="{{ "/feed.json" | prepend: site.baseurl }}">via JSON</a></p>
+
+</div>
