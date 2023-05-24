@@ -28,13 +28,13 @@ features:
     description: Shows only those albums where you've added all or most of the songs. Listen with single tap.
     fontawesome: fas fa-rocket
   - title: Discover forgotten treasures
-    description: Sort by neglicence to reveal albums you haven't listened too in a while but rated highly.
+    description: Sort by negligence to reveal albums you haven't listened too in a while but rated highly.
     fontawesome: fas fa-gem
   - title: Your music
     description: Works any music that is in your Music app, be it from Apple Music, iTunes purchases or manually synced.
     fontawesome: fas fa-heart
   - title: Funky sort options
-    description: Sort by name, addiction, brightness, neglicence, recency or your ratings.
+    description: Sort by name, addiction, brightness, negligence, recency or your ratings.
     fontawesome: fas fa-magic
   - title: Big and small
     description: Size albums by addiction, negligence, recency, your ratings or album length.
@@ -76,7 +76,7 @@ testimonials:
   - handle: ivanski
     avatar: ivanski.jpg
     link: https://twitter.com/ivanski/status/1299218124688879616
-    quote: Very nice job with Longplay! Love the wall-of-albums UX. 
+    quote: Very nice job with Longplay! Love the wall-of-albums UX.
   - handle: selsrog
     avatar: selsrog.jpg
     link: https://twitter.com/selsrog/status/1296031743473078274
@@ -85,13 +85,9 @@ testimonials:
     avatar: edvinasbartkus.jpg
     link: https://twitter.com/edvinasbartkus/status/1259846198187474949?s=21
     quote: What a great app! Listening to full albums is the only proper way to consume great music.
-
-
 ---
 
-
 **[Available](https://apps.apple.com/us/app/longplay/id1495152002) for iOS 15 for iPhone, iPad, and iPod Touch, in English and German.**
-
 
 <div class="testimonials-wrapper">
   <div class="testimonials-flexslider">
@@ -110,13 +106,15 @@ testimonials:
       {% endfor %}
     </ul>
 
-    {% comment %} 
+    {% comment %}
     <a href="#0" class="cd-see-all">See all</a>
     {% endcomment %}
+
   </div>
 </div>
 
 {% comment %}
+
 <div class="cd-testimonials-all">
    <div class="cd-testimonials-all-wrapper">
       <ul>
@@ -134,9 +132,11 @@ testimonials:
 
          {% endfor %}
       </ul>
+
    </div> <!-- cd-testimonials-all-wrapper -->
 
-   <a href="#0" class="close-btn">Close</a>
+<a href="#0" class="close-btn">Close</a>
+
 </div> <!-- cd-testimonials-all -->
 
 <div class="flexslider">
