@@ -78,9 +78,39 @@ layout: default
       {% endif %}
   
       {% endfor %}
-    </div>    
+    </div>
 
-    <p>{{ page.description }}</p>
+    {% if page.secondary_features %}
+    <h1>Wait, there's more…</h1>
+
+    <div class="features">
+
+      {% for feature in page.secondary_features %}
+  
+      {% if feature.title %}
+      <div class="feature">
+          <div>
+              <span class="fa-stack fa-1x">
+                  <i class="icon-back fas fa-circle fa-stack-2x"></i>
+                  <i class="icon-top {{ feature.fontawesome }} fa-stack-1x"></i>
+              </span>
+          </div>
+          <div class="feature-text">
+              <h3>
+                  {{ feature.title }}
+              </h3>
+              <p>
+                  {{ feature.description | markdownify }}
+              </p>
+          </div>
+      </div>
+      {% endif %}
+  
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <p>{{ page.description | markdownify }}</p>
 
     {{ content }}
   </article>
