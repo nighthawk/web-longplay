@@ -125,6 +125,14 @@ layout: default
 
     <p>{{ page.description | markdownify }}</p>
 
+    {% if page.app.appstore_link %}
+    <div class="app-download-trailer">
+      <div class="app-download-box">
+        <a class="app-store-link" href="{{ page.app.appstore_link }}"><img class="app-store" src="/images/appstore.png"></a>
+      </div>
+    </div>
+    {% endif %}
+  
     {{ content }}
   </article>
 
