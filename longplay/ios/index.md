@@ -97,34 +97,42 @@ secondary_features:
 
 testimonials:
   - handle: jsnell
+    name: Jason Snell
     avatar: jsnell.jpeg
     link: https://overcast.fm/+Fcm_g75R4/37:36
     quote: Steve Jobs would have loved it.
-  - handle: gruber
-    avatar: gruber.png
-    link: https://twitter.com/gruber/status/1295828946391629826
-    quote: I do like listening to albums front to back. What a great idea.
   - handle: marcoarment
+    name: Marco Arment
     avatar: marcoarment.jpg
     link: https://twitter.com/marcoarment/status/1295810118106349570
     quote: Great idea and beautiful design. I love the different discoverability angles, especially Negligence.
   - handle: jason_tate
+    name: Jason Tate
     avatar: jason_tate.png
     link: https://twitter.com/jason_tate/status/1295812410888974336
     quote: "Full album listeners: assemble!"
   - handle: mikker
+    name: Mikkel Malmberg
     avatar: mikker.jpg
     link: https://twitter.com/mikker/status/1295801509435899905
-    quote: This iOS music player is perfect. This is exactly how I like to play music; one record at a time, from start to finish. OUTSTANDING work, @nhawk!
+    quote: This iOS music player is perfect. This is exactly how I like to play music; one record at a time, from start to finish. OUTSTANDING work!
   - handle: ivanski
+    name: Iván Cavero Belaunde
     avatar: ivanski.jpg
     link: https://twitter.com/ivanski/status/1299218124688879616
     quote: Very nice job with Longplay! Love the wall-of-albums UX.
   - handle: selsrog
+    name: Roger
     avatar: selsrog.jpg
     link: https://twitter.com/selsrog/status/1296031743473078274
     quote: Thanks for Longplay, I miss the days I could stand before my collection to find forgotten treasures.
+  - handle: gruber
+    name: John Gruber
+    avatar: gruber.png
+    link: https://twitter.com/gruber/status/1295828946391629826
+    quote: I do like listening to albums front to back. What a great idea.
   - handle: edvinasbartkus
+    name: Ed Bartkus
     avatar: edvinasbartkus.jpg
     link: https://twitter.com/edvinasbartkus/status/1259846198187474949?s=21
     quote: What a great app! Listening to full albums is the only proper way to consume great music.
@@ -142,7 +150,7 @@ testimonials:
          <div class="testimonials-author">
             <img src="/images/avatars/{{ testimonial.avatar }}" alt="{{ testimonial.handle }}" />
             <ul class="testimonials-author-info">
-               <li><a href="{{ testimonial.link }}">@{{ testimonial.handle }}</a></li>
+               <li><a href="{{ testimonial.link }}">{{ testimonial.name }}</a></li>
             </ul>
          </div>
       </li>
