@@ -8,15 +8,15 @@ nomasthead: True
 
 description: Longplay is *the* iOS app for music lovers who enjoy listening to full albums, especially if they have a hard time isolating them in their music library. It provides a beautiful view of the album artworks of the (near) complete albums in their music library with one-tap access to play them.
 image: /images/longplay/four.png
-canonical_url: https://longplay.app
+canonical_url: https://longplay.rocks
 seo:
   type: MobileApplication
 
 app:
   name: Longplay
   icon: /images/longplay/icon.png
-  price: $6.99
-  oneliner: Rediscover, organise and enjoy your album collection.
+  price: US$6 - one-time purchase
+  oneliner: Rediscover, organise, and enjoy your album collection.
   appstore_link: https://apps.apple.com/us/app/longplay/id1495152002
   presskit_link: longplay/ios/presskit.md
   changelog_link: longplay/ios/changelog.md
@@ -25,7 +25,7 @@ app:
 
 features:
   - title: Quickly access your complete albums
-    description: Shows only those albums where you've added all or most of the songs. Listen with single tap.
+    description: Shows only those albums where you've added all or most of the songs. Listen with a single tap.
     fontawesome: fas fa-rocket
   - title: Organise albums into collections
     description: Group your albums and playlists, for a road trip, kids, by language, live albums, you name it.
@@ -40,10 +40,10 @@ features:
     fontawesome: fas fa-list-ul
     new_in: 2.0
   - title: Discover forgotten treasures
-    description: Sort by negligence to reveal albums you haven't listened too in a while but rated highly.
+    description: Sort by negligence to reveal albums you haven't listened to in a while but rated highly.
     fontawesome: fas fa-gem
   - title: Funky sort options
-    description: Sort by name, addiction, brightness, negligence, memory, recency or your ratings. Explained via a little in-app dictionary.
+    description: Sort by name, addiction, brightness, negligence, memory, recency, or your ratings. Explained via a little in-app dictionary.
     fontawesome: fas fa-magic
   - title: Star ratings make sense again
     description: Sort orders adapt to your star rating, or set your playback to auto-skip songs below a certain rating. Rate right in the app.
@@ -58,21 +58,21 @@ features:
     fontawesome: fas fa-heart
 
 secondary_features:
-  - title: Not your normal shuffle button
+  - title: Shuffling becomes an experience
     description: Hold down the shuffle button to start cycling through albums. Let go to pick. Swipe left/right to manually go back or forward through the albums.
     fontawesome: fas fa-dice
     new_in: 2.0
   - title: Big and small
-    description: Size albums by addiction, negligence, recency, your ratings or album length.
+    description: Size albums by addiction, negligence, recency, your ratings, or album length.
     fontawesome: fas fa-expand-arrows-alt
   - title: Scrobbling
-    description: Track your listens through Last.fm or ListenBrainz
+    description: Track your listens through Last.fm or ListenBrainz.
     fontawesome: fas fa-music
     new_in: 2.0
   - title: Home Screen widgets
     description: Mini album wall for your home screen, that doubles as a "Feeling lucky" play button.
     fontawesome: fas fa-th-large
-  - title: Siri & Sortcuts support
+  - title: Siri & Shortcuts support
     description: Use Siri or create Shortcuts to trigger playback using Longplay from outside the app.
     fontawesome: fas fa-microphone-alt
     new_in: 2.0
@@ -89,10 +89,10 @@ secondary_features:
     fontawesome: fas fa-expand-arrows-alt
     new_in: 2.0
   - title: Mobile data friendly
-    description: Highlights albums you have downloaded when not connected to Wifi.
+    description: Highlights albums you have downloaded when not connected to WiFi.
     fontawesome: fas fa-broadcast-tower
   - title: Made with love
-    description: The app is made by [myself](https://adrian.schoenig.me), and I use it pretty much every day. I love feedback, read all, and try to reply to everything, too.
+    description: The app is made by [myself](https://adrian.schoenig.me) and I use it pretty much every day. I love feedback, read all and try to reply to everything, too.
     fontawesome: fas fa-heart
 
 testimonials:

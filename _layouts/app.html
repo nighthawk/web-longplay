@@ -71,9 +71,15 @@ layout: default
                   {{ feature.title }}
               </h3>
               <p>
-                  {{ feature.description }}
+                  {{ feature.description | markdownify }}
               </p>
-          </div>
+
+              {% if feature.new_in %}
+              <p style="font-weight: bold">
+              ✨ New in {{ feature.new_in }} ✨
+              </p>
+              {% endif %}
+            </div>
       </div>
       {% endif %}
   
@@ -102,6 +108,13 @@ layout: default
               <p>
                   {{ feature.description | markdownify }}
               </p>
+
+
+              {% if feature.new_in %}
+              <p style="font-weight: bold">
+              ✨ New in {{ feature.new_in }} ✨
+              </p>
+              {% endif %}
           </div>
       </div>
       {% endif %}
