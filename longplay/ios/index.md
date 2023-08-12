@@ -1,6 +1,6 @@
 ---
 layout: app
-title: Longplay
+#title: Longplay // it's already the title of the whole page
 redirect_from:
   - /ios/
 permalink: /
@@ -21,7 +21,7 @@ app:
   presskit_link: longplay/ios/presskit.md
   changelog_link: longplay/ios/changelog.md
   privacy_link: longplay/ios/privacy.md
-  screenshots: /images/longplay/four-1dot2.png
+  screenshots: /images/longplay/four-2dot0.png
 
 features:
   - title: Quickly access your complete albums
