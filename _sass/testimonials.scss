@@ -13,6 +13,10 @@ Main components
 	padding: 20px 40px 20px;
 	z-index: 1;
 
+	@media (max-width: 480px) {
+		width: auto;
+	}
+
 	&::after {
 		/* quotation mark */
 		content: '\201C';
