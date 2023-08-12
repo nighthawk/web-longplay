@@ -23,9 +23,9 @@ Longplay's purpose is to make listening to full albums easier, so it displays th
 
 ### Why are my albums greyed out?
 
-When you're not connected to WiFi, albums in your library that you haven't downloaded to your device are faded. If you have a cellular connection and you allowed the Music app to download music over cellular, you will still be able to download and listen to that album though. However, mobile data charges might apply!
+When you're not connected to Wi-Fi, albums in your library that you haven't downloaded to your device are faded. If you have a cellular connection and you allowed the Music app to download music over cellular, you will still be able to download and listen to that album though. However, mobile data charges might apply!
 
-_Note_: There's an advanced settings in the Settings.app to adjust this setting. You can opt to keep the default behaviour of greying out while you're not on WiFi, to always grey out albums you haven't downloaded, or to never grey them out.
+_Note_: There's an advanced settings in the Settings.app to adjust this setting. You can opt to keep the default behaviour of greying out while you're not on Wi-Fi, to always grey out albums you haven't downloaded, or to never grey them out.
 
 ### Can I hide albums that I don't have downloaded?
 

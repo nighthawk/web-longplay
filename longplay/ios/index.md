@@ -89,7 +89,7 @@ secondary_features:
     fontawesome: fas fa-expand-arrows-alt
     new_in: 2.0
   - title: Mobile data friendly
-    description: Highlights albums you have downloaded when not connected to WiFi.
+    description: Highlights albums you have downloaded when not connected to Wi-Fi.
     fontawesome: fas fa-broadcast-tower
   - title: Made with love
     description: The app is made by [myself](https://adrian.schoenig.me) and I use it pretty much every day. I love feedback, read all and try to reply to everything, too.
