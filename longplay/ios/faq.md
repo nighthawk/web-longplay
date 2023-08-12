@@ -12,11 +12,11 @@ Longplay's purpose is to make listening to full albums easier, so it displays th
 
 ### How do the sort options work?
 
-- _Orderliness_: by artist, then by album
-- _Addiction_: by amount of time spent listening
+- _Orderliness_: by artist, then by album; in the settings you can choose for this to fully alphabetic or to use the "sort order" tag in the Music app
+- _Addiction_: by amount of time spent listening, also considering the date when an album was added
 - _Brightness_: by the primary colour of the album artwork
 - _Negligence_: by the time it's been since you've last listened to the album, weighted by the rating
-- _Memory_: by the time it's been since you've last listened to the album
+- _Memory_: by the time it's been since you've last listened to the album, also considering how much of the album you've listened to
 - _Recency_: by date added
 - _Stars_: by the rating you've provided for each song
 - _Random_: shuffles all albums, re-shuffled every time you tap it
@@ -33,7 +33,11 @@ Yes, there's a smart collection called "Downloaded", which only shows those albu
 
 ### It's showing all my kids' albums / meditation / white noise albums and playlists! Can I hide those?
 
-Sure, you can. Long tap on an item you want to hide then select "Hide". If you later want to show it again, swipe to the side albums list to the side, select "Show" > "Hidden things" and it'll re-appear. You can then make it visible again, by long tapping it and selecting "Unhide".
+Sure, you can. Long tap on an item you want to hide then select "Hide".
+
+Hidden albums are hidden in the "My Library" view. If you add them to a collection, they will not be hidden from that collection; that way you can also make a collection with kids' albums.
+
+If you later want to see hidden albums in the "My Library" view again, tap the Collection picker at the top (left) of the screen, tap the filter icon next to "My Library" and toggle "Hidden things", and they'll re-appear. You can then also un-hide with a long tap and selecting "Unhide".
 
 ### How do I add missing album artwork?
 
@@ -50,7 +54,7 @@ This can happen if the Music app did not yet download your artwork. Open the Mus
 
 Longplay uses the ratings for songs as you set them in iTunes and the Music app.
 
-You can also rate songs in Longplay by long-tapping on a song in the track list of the "Now Playing" screen. _Note_: Longplay cannot write the ratings back to the Music app, so they will only be visible in Longplay.
+You can also rate songs in Longplay by long-tapping on a song in the track list of the "Now Playing" screen. _Note_: Longplay cannot write the ratings back to the Music app, so these ratings will only be visible in Longplay. Ratings sync using iCloud.
 
 ### Can I queue up multiple albums?
 
