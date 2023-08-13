@@ -50,7 +50,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    <p>{{ page.app.oneliner }}</p>
+    <p>{{ page.app.oneliner || markdownify }}</p>
 
     {% include image.html url=page.app.screenshots %}
 
