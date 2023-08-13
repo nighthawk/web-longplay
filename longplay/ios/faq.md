@@ -21,6 +21,8 @@ Longplay's purpose is to make listening to full albums easier, so it displays th
 - _Stars_: by the rating you've provided for each song
 - _Random_: shuffles all albums, re-shuffled every time you tap it
 
+The _Dictionary_ in the in-app settings explains these in more detail. On iPhone, you can also long-tap on each sort order to get a explanation.
+
 ### Why are my albums greyed out?
 
 When you're not connected to Wi-Fi, albums in your library that you haven't downloaded to your device are faded. If you have a cellular connection and you allowed the Music app to download music over cellular, you will still be able to download and listen to that album though. However, mobile data charges might apply!
@@ -60,6 +62,10 @@ You can also rate songs in Longplay by long-tapping on a song in the track list 
 
 You sure can. Long tap on an album and select "Play Next" or "Play Later". You can also queue up multiple albums by long tapping on an album in the albums list and selecting "Play Next" or "Play Later".
 
+### What does Longplay store in iCloud?
+
+Longplay stores your collections, your hidden albums and playlists, your ratings, and your play counts in iCloud. It does not store any of your music.
+
 ### I am tapping albums but all I see is a spinning indicator and playback doesn't start
 
 This happens if you removed the Music app from your device. Go to the App Store and make sure it's installed. Then playback should work from Longplay.
@@ -74,15 +80,7 @@ Not at the moment. The currently released version on the App Store is the most u
 
 ### Is there a macOS version?
 
-Not yet!
-
-### What are those playlists in the screenshots?
-
-Enjoy:
-
-- [Chill out](https://music.apple.com/de/playlist/dance/pl.u-063abuDbvmW?l=en)
-- [Dance!](https://music.apple.com/de/playlist/dance/pl.u-063abuDbvmW?l=en)
-- [Slow Awesomeness](https://music.apple.com/de/playlist/slow-awesomeness/pl.u-yZL8VFpxMoY?l=en)
+Not yet... but [it's in the works](https://adrian.schoenig.me/micro/2022/05/28.html).
 
 ### I got another question!
 
