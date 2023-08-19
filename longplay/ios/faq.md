@@ -82,6 +82,10 @@ Not at the moment. The currently released version on the App Store is the most u
 
 Not yet... but [it's in the works](https://adrian.schoenig.me/micro/2022/05/28.html).
 
+### Thanks for making the 2.0 update free. Is there a tip jar?
+
+Not in the app, but you can [buy me a coffee](https://www.buymeacoffee.com/adrianschoenig) or two.
+
 ### I got another question!
 
 You can reach out on [Mastodon](https://longplay@indieapps.space) or [by mail](mailto:words@longplay.app).
