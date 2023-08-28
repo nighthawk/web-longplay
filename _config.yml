@@ -9,7 +9,7 @@ author:
 copyright: |
   © 2020-2023 [Adrian Schönig](https://adrian.schoenig.me/).
 
-  Powered by [Jekyll](https://jekyllrb.com) & [GitLab](https://gitlab.com). Theme based on [So Simple](https://github.com/mmistakes/so-simple-theme). [Stats](https://longplay.goatcounter.com) powered by [GoatCounter](https://www.goatcounter.com).
+  Powered by [Jekyll](https://jekyllrb.com) & [GitHub](https://github.com). Theme based on [So Simple](https://github.com/mmistakes/so-simple-theme). [Stats](https://longplay.goatcounter.com) powered by [GoatCounter](https://www.goatcounter.com).
 description: >
   Longplay is the iOS app for music lovers who enjoy listening to full albums but have a hard time finding them in their music library. It provides a beautiful view of the album artworks of the (near) complete albums in your music library with one-tap access to play them.
 baseurl: ""
