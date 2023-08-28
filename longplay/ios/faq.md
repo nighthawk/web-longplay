@@ -88,4 +88,4 @@ Not yet. Thanks for asking.
 
 ### I got another question!
 
-You can reach out on [Mastodon](https://longplay@indieapps.space) or [by mail](mailto:words@longplay.app).
+You can reach out on [Mastodon](https://indieapps.space/@longplay) or [by mail](mailto:words@longplay.app).
