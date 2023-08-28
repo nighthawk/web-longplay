@@ -50,7 +50,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    <p>{{ page.app.oneliner }}</p>
+    <p>{{ page.app.oneliner || markdownify }}</p>
 
     {% include image.html url=page.app.screenshots %}
 
@@ -71,17 +71,68 @@ layout: default
                   {{ feature.title }}
               </h3>
               <p>
-                  {{ feature.description }}
+                  {{ feature.description | markdownify }}
               </p>
+
+              {% if feature.new_in %}
+              <p style="font-weight: bold">
+              ✨ New in {{ feature.new_in }} ✨
+              </p>
+              {% endif %}
+            </div>
+      </div>
+      {% endif %}
+  
+      {% endfor %}
+    </div>
+
+    {% if page.secondary_features %}
+    <h1>Wait, there's more…</h1>
+
+    <div class="features">
+
+      {% for feature in page.secondary_features %}
+  
+      {% if feature.title %}
+      <div class="feature">
+          <div>
+              <span class="fa-stack fa-1x">
+                  <i class="icon-back fas fa-circle fa-stack-2x"></i>
+                  <i class="icon-top {{ feature.fontawesome }} fa-stack-1x"></i>
+              </span>
+          </div>
+          <div class="feature-text">
+              <h3>
+                  {{ feature.title }}
+              </h3>
+              <p>
+                  {{ feature.description | markdownify }}
+              </p>
+
+
+              {% if feature.new_in %}
+              <p style="font-weight: bold">
+              ✨ New in {{ feature.new_in }} ✨
+              </p>
+              {% endif %}
           </div>
       </div>
       {% endif %}
   
       {% endfor %}
-    </div>    
+    </div>
+    {% endif %}
 
-    <p>{{ page.description }}</p>
+    <p>{{ page.description | markdownify }}</p>
 
+    {% if page.app.appstore_link %}
+    <div class="app-download-trailer">
+      <div class="app-download-box">
+        <a class="app-store-link" href="{{ page.app.appstore_link }}"><img class="app-store" src="/images/appstore.png"></a>
+      </div>
+    </div>
+    {% endif %}
+  
     {{ content }}
   </article>
 

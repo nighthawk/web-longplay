@@ -6,12 +6,30 @@ redirect_from:
 permalink: /changelog/
 ---
 
-## V1.2
+## 2.0
+
+🎶 Back in Black 🎶
+
+- [New] Now Playing screen, including track list
+- [New] Create collections of albums
+- [New] Infinite album shuffle
+- [New] Album queue
+- [New] CarPlay support
+- [New] Siri support
+- [New] "Memory" sort order
+- [New] Dictionary to explain sort orders
+- [New] iCloud Sync
+- [New] Revised iPad layout
+- [New] Much improved performance to handle thousands of albums
+
+And a lot of other small-to-medium-sized improvements and fixes.
+
+## 1.2
 
 🎶 I Got Some If You Need It 🎶
 
 - [New] In-app settings screen, including alternative app icons
-- [New] New "Size by" option 
+- [New] New "Size by" option
 - [New] New 'Random' sort order, re-shuffling whenever you tap the option again
 - [New] iPad: Show a button in the bottom left when scrolling through the albums to quickly access your settings
 - [New] iPad Keyboard support: Arrow keys to navigate around, play/pause via enter
@@ -22,18 +40,18 @@ permalink: /changelog/
 - [Fix] Small tweak to light mode and when no albums are available
 - [Change] Requires iOS 15
 
-## V1.1.5
+## 1.1.5
 
 - [Fix] VoiceOver-related fix for the medium-sized widget
 - [Fix] The widget configuration now uses Longplay's colours
 
-## V1.1.4
+## 1.1.4
 
 🎶 Long Way To The Top 🎶
 
 - [New] Tapping near the top now scrolls to the top, as you'd expect.
 
-## V1.1.3
+## 1.1.3
 
 Interlude, with a few fixes:
 
@@ -41,7 +59,7 @@ Interlude, with a few fixes:
 - [Fix] Fix resizing glitch when scrolling playing album in and out of viewport
 - [Fix] Fix settings sometimes overlapping albums when returning to the app on iPad
 
-## V1.1.2
+## 1.1.2
 
 🎶 All The Small Things 🎶, something for everyone:
 
@@ -59,7 +77,7 @@ Interlude, with a few fixes:
 - [Fix] Removes potential for a crash when clearing the cache.
 - [Fix] Improved the performance for app start-up and when quickly scrolling through albums.
 
-## V1.1
+## 1.1
 
 🎶 Another Brick in the Wall 🎶, ready for iOS 14:
 
@@ -79,14 +97,14 @@ And a couple of fixes:
 - Fix of Z-order of the side settings on an iPad on launch
 - Address a crash after clearing the cache
 
-## V1.0.3
+## 1.0.3
 
 🎶 So Much To Say 🎶
 
 - More order when sorting by orderliness: Now sorts artists the same as the Music app, using "sort as" tags and properly handles compilations, intermingling them and and playlists according to their names. Also albums that include numbers are now sorted numerically; fans of the Dave Matthews Band and other jam bands might appreciate this.
 - Performance improvements for start-up, especially for large libraries. Should be noticable on second start-up after updating, as the first start-up will migrate to an updated on-disk cache.
 
-## V1.0.2
+## 1.0.2
 
 🎶 What Have We Found? 🎶
 
@@ -95,15 +113,12 @@ And a couple of fixes:
 - Automatic refresh of the albums when coming back to the app, so if you add an album through the Music app, it'll show up when you go back to Longplay.
 - Sorting by orderliness now ignores "the" prefix of artists when using an English locale.
 - Performance improvements and stability tweaks, in particular for very large album collections.
-Thanks again for all the feedback so far. Much appreciated! -->
+  Thanks again for all the feedback so far. Much appreciated! -->
 
-<!-- 
-## V1.0.1
+## 1.0.1
 
 🎶 Ch-ch-ch-changes 🎶
 
 - Inverts the play/pause indicator to match the Music app (by unanimous and unarguably correct demand)
 - Long-tapping an album now shows additional info based on your selected sort order, i.e., when sorting by "addiction" how many times you've listened to the album, when sorting by "recency" when you've added the album, and when sorting by "stars" what's the average rating.
 - Fixes album's title and subtitle not always appearing when long-tapping album
-
-<!-- As Longplay just launch I very much want to thank everyone for the feedback so far. I read it all. Keep it coming! -->
