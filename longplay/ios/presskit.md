@@ -14,9 +14,9 @@ _Pricing_: One-off purchase of USD 6 / GBP 6 / EUR 7 / AUD 9.
 
 _Developer_: [Adrian Schönig](https://adrian.schoenig.me)
 
-_Requirements_: iOS or iPad OS 15
+_Requirements_: iOS or iPadOS 15
 
-_Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://longplay.app](https://longplay.app) also exists and currently just has the info of the released version 1.x, but .rocks is preferred and .app will redirect there)
+_Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://longplay.app](https://longplay.app) also exists but .rocks is preferred and .app redirects there)
 
 ---
 
@@ -35,6 +35,8 @@ _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://long
 {% include image_inline.html width='225' url='/images/longplay/v2/5-sort-orders.png' %}
 {% include image_inline.html width='225' url='/images/longplay/v2/6-context.png' %}
 {% include image_inline.html width='225' url='/images/longplay/v2/7-dict.png' %}
+
+{% include image_inline.html width='705' url='/images/longplay/v2/ipad.png' %}
 
 {% comment %}
 More screenshots, including iPad, and with frames in the [Download](/longplay/presskit.zip).
