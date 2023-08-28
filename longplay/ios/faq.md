@@ -80,11 +80,11 @@ Not at the moment. The currently released version on the App Store is the most u
 
 ### Is there a macOS version?
 
-Not yet... but [it's in the works](https://adrian.schoenig.me/micro/2022/05/28.html).
+Not yet. It is in the works, and available in [_Early Access_ on Gumroad](https://adrianschoenig.gumroad.com/l/longplay).
 
 ### Thanks for making the 2.0 update free. Is there a tip jar?
 
-Not in the app, but you can [buy me a coffee](https://www.buymeacoffee.com/adrianschoenig) or two.
+Not yet. Thanks for asking.
 
 ### I got another question!
 
