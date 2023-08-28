@@ -29,6 +29,10 @@ excerpt_separator: <!--more-->
 
 permalink: pretty
 
+# Jekyll-seo-tag
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+locale: en_AU
+
 collections:
   posts:
     output: true
