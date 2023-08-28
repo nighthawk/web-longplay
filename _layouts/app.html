@@ -54,9 +54,17 @@ layout: default
 
     {% include image.html url=page.app.screenshots %}
 
+    {% for group in page.feature_groups %}
+
+    <h1>{{ group.title }}</h1>
+
+    {% if group.subtitle %}
+    <p>{{ group.subtitle | markdownify }}</p>
+    {% endif %}
+
     <div class="features">
 
-      {% for feature in page.features %}
+      {% for feature in group.features %}
   
       {% if feature.title %}
       <div class="feature">
@@ -85,43 +93,8 @@ layout: default
   
       {% endfor %}
     </div>
+    {% endfor %}
 
-    {% if page.secondary_features %}
-    <h1>Wait, there's more…</h1>
-
-    <div class="features">
-
-      {% for feature in page.secondary_features %}
-  
-      {% if feature.title %}
-      <div class="feature">
-          <div>
-              <span class="fa-stack fa-1x">
-                  <i class="icon-back fas fa-circle fa-stack-2x"></i>
-                  <i class="icon-top {{ feature.fontawesome }} fa-stack-1x"></i>
-              </span>
-          </div>
-          <div class="feature-text">
-              <h3>
-                  {{ feature.title }}
-              </h3>
-              <p>
-                  {{ feature.description | markdownify }}
-              </p>
-
-
-              {% if feature.new_in %}
-              <p style="font-weight: bold">
-              ✨ New in {{ feature.new_in }} ✨
-              </p>
-              {% endif %}
-          </div>
-      </div>
-      {% endif %}
-  
-      {% endfor %}
-    </div>
-    {% endif %}
 
     <p>{{ page.description | markdownify }}</p>
 
