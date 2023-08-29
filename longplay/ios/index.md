@@ -17,7 +17,7 @@ app:
   icon: /images/longplay/icon.png
   price: US$6 - one-time purchase
   oneliner: |
-    Rediscover, organise, and enjoy your album collection.
+    Rediscover, enjoy and organise your album collection.
 
     __*Version 2.0 coming 31 August 2023.*__
   appstore_link: https://apps.apple.com/us/app/longplay/id1495152002
@@ -28,6 +28,7 @@ app:
 
 feature_groups:
   - title: Rediscover your album collection
+    subtitle: Like standing in front of your album collection, but with superpowers.
     features:
       - title: Quickly access your complete albums
         description: Shows only those albums where you've added all or most of the songs. Listen with a single tap.
@@ -45,6 +46,32 @@ feature_groups:
         description: Works with any music that is in your Music app, be it from Apple Music, iTunes purchases or manually synced.
         fontawesome: fas fa-heart
 
+  - title: Enjoy your music
+    subtitle: Quickly start listening, stay in the flow with infinite album shuffle or your own queue, and take albums with you wherever you are.
+    features:
+      - title: Infinite album shuffle
+        description: Stay in the flow, with smart shuffle depending on your current collection or sort order.
+        fontawesome: fas fa-random
+        new_in: 2.0
+      - title: Shuffling becomes an experience
+        description: Hold down the shuffle button to start cycling through albums. Let go to pick. Swipe left/right to manually go back or forward through the albums.
+        fontawesome: fas fa-dice
+        new_in: 2.0
+      - title: Album queue
+        description: Do it your way and queue up albums manually.
+        fontawesome: fas fa-list-ul
+        new_in: 2.0
+      - title: Home Screen widgets
+        description: Mini album wall for your home screen, that doubles as a "Feeling lucky" play button.
+        fontawesome: fas fa-th-large
+      - title: CarPlay
+        description: Access your albums and collection from the comfort of your driver's seat. Perfect for long road trips.
+        fontawesome: fas fa-car
+        new_in: 2.0
+      - title: AirPlay aware
+        description: Switch to an AirPlay speaker or headphones right from the Now Playing screen.
+        fontawesome: fas fa-music
+
   - title: Organise the way you want
     features:
       - title: Organise albums into collections
@@ -60,37 +87,12 @@ feature_groups:
         fontawesome: fas fa-music
         new_in: 2.0
 
-  - title: Enjoy your music
+  - title: And more...
     features:
-      - title: Infinite album shuffle
-        description: Stay in the flow, with smart shuffle depending on your current collection or sort order.
-        fontawesome: fas fa-random
-        new_in: 2.0
-      - title: Shuffling becomes an experience
-        description: Hold down the shuffle button to start cycling through albums. Let go to pick. Swipe left/right to manually go back or forward through the albums.
-        fontawesome: fas fa-dice
-        new_in: 2.0
-      - title: Album queue
-        description: Do it your way and queue up albums manually.
-        fontawesome: fas fa-list-ul
-        new_in: 2.0
-      - title: CarPlay
-        description: Access your albums and collection from the comfort of your driver's seat. Perfect for long road trips.
-        fontawesome: fas fa-car
-        new_in: 2.0
-      - title: Home Screen widgets
-        description: Mini album wall for your home screen, that doubles as a "Feeling lucky" play button.
-        fontawesome: fas fa-th-large
       - title: Siri & Shortcuts support
         description: Use Siri or create Shortcuts to trigger playback using Longplay from outside the app.
         fontawesome: fas fa-microphone-alt
         new_in: 2.0
-      - title: AirPlay aware
-        description: Switch to an AirPlay speaker or headphones right from the Now Playing screen.
-        fontawesome: fas fa-music
-
-  - title: And more...
-    features:
       - title: iCloud sync
         description: Your collections, hidden albums, ratings, and playback statistics sync automatically using iCloud.
         fontawesome: fas fa-cloud-upload-alt
