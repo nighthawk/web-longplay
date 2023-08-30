@@ -19,7 +19,7 @@ app:
   oneliner: |
     Rediscover, enjoy and organise your album collection.
 
-    __*Version 2.0 coming 31 August 2023.*__
+    __*Version 2.0 out now.*__
   appstore_link: https://apps.apple.com/us/app/longplay/id1495152002
   presskit_link: longplay/ios/presskit.md
   changelog_link: longplay/ios/changelog.md
