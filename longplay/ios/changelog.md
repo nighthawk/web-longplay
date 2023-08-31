@@ -19,7 +19,7 @@ permalink: /changelog/
 - [New] "Memory" sort order
 - [New] Dictionary to explain sort orders
 - [New] iCloud Sync
-- [New] Last.fm and Listenbrainz support
+- [New] Last.fm and ListenBrainz support
 - [New] Revised iPad layout
 - [New] Much improved performance to handle thousands of albums
 
