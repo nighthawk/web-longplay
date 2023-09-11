@@ -33,15 +33,19 @@ layout: default
         {% endif %}
 
         <span class="app-presskit-link">
+        {% if page.app.presskit_external_link %}
+        <a href="{{ page.app.presskit_external_link }}">Press Kit</a>&nbsp;|&nbsp;
+        {% endif %}
+
         {% if page.app.presskit_link %}
-        <a href="{% link {{ page.app.presskit_link }} %}">Press Kit</a>
+        <a href="{% link {{ page.app.presskit_link }} %}">Press Kit</a>&nbsp;|&nbsp;
         {% endif %}
-        &nbsp;|&nbsp;
+        
         {% if page.app.changelog_link %}
-        <a href="{% link {{ page.app.changelog_link }} %}">Changelog</a>
+        <a href="{% link {{ page.app.changelog_link }} %}">Changelog</a>&nbsp;|&nbsp;
         {% endif %}
+
         {% if page.app.privacy_link %}
-        &nbsp;|&nbsp;
         <a href="{% link {{ page.app.privacy_link }} %}">Privacy Policy</a>
         {% endif %}
         </span>
