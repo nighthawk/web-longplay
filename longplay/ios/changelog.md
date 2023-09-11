@@ -6,6 +6,25 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.0.1
+
+🎶 Brand New Day 🎶 ...for a round of fixes:
+
+New:
+
+- Time in the track list of the current track ticks down
+- Pull-to-refresh when viewing "My Library"
+
+Fixes:
+
+- Always show "Downloaded" smart collection
+- Show sizing options also for large libraries
+- Tweaks size of Now Playing buttons in CarPlay
+- Fixes multi-selection gesture to add multiple items to a collection
+- Fixes progress bar updates on Welcome Screen
+- Fixes some typos
+- Stability and performance improvements
+
 ## 2.0
 
 🎶 Back in Black 🎶
