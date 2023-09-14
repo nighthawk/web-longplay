@@ -18,8 +18,6 @@ app:
   price: US$6 - one-time purchase
   oneliner: |
     Rediscover, enjoy and organise your album collection.
-
-    __*Version 2.0 out now. [See announcement](https://adrian.schoenig.me/blog/2023/08/31/longplay-2.0/).*__
   appstore_link: https://apps.apple.com/us/app/longplay/id1495152002
   presskit_external_link: https://impresskit.net/longplay
   # presskit_link: longplay/ios/presskit.md
