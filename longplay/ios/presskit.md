@@ -14,7 +14,7 @@ _Pricing_: One-off purchase of USD 6 / GBP 6 / EUR 7 / AUD 9.
 
 _Developer_: [Adrian Schönig](https://adrian.schoenig.me)
 
-_Requirements_: iOS or iPadOS 15
+_Requirements_: iOS or iPadOS 16.1
 
 _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://longplay.app](https://longplay.app) also exists but .rocks is preferred and .app redirects there)
 
@@ -58,24 +58,15 @@ It supports CarPlay, AirPlay, iCloud sync, Siri and Shortcuts.
 
 ---
 
-### About the 2.0 Update
-
-This version is a big update:
-
-The stand-out new features are the Infinite Album Shuffle, an in-app Now Playing screen, the ability to create collections and manage the queue of albums.
-
-It also adds iCloud sync of your collections and playback stats. It let's you see the track list of an album and rate individual tracks in-app. It adds new settings to auto-skip tracks below a certain rating or that are marked as explicit. It adds a CarPlay app to access your albums and collections right from the comfort of your driver's seat — perfect for road trips. It also adds Siri support and adds more Shortcuts. Lastly, you can now connect a Last.fm or Listenbrainz account to keep track of your listens.
-
-The full list of additions is in the [changelog]({% link longplay/ios/changelog.md %}).
-
-A lot of love and polish went into this update, iterating on the very helpful feedback from the beta testers, as well as from Apple designers in a WWDC Design Lab.
-
-The update is free for existing users. The release date is 31 August 2023. The price of the app will go up to 6 USD that date (from 3.99).
-
----
-
 ### About the Developer
 
 As my main occupation, I'm the CTO of [SkedGo Pty Ltd](https://skedgo.com), a small-to-medium sized company building a multi-modal transport platform and front-end apps, including [TripGo](https://skedgo.com/tripgo).
 
-Longplay is my first indie app. I like listening to entire music albums. The app therefore came out of my personal need for wanting quick access to just the complete albums in my music library - without all those albums where I've just added a single song or two. I built an initial version for myself in 2015, decided in early 2020 to ship it. Version 1.0 was shipped in August 2020. Version 2.0 ships in August 2023.
+Longplay is my first indie app. I like listening to entire music albums. The app therefore came out of my personal need for wanting quick access to just the complete albums in my music library - without all those albums where I've just added a single song or two. I built an initial version for myself in 2015, shipped Version 1.0 in August 2020. Version 2.0 shipped in August 2023.
+
+---
+
+### Press Releases
+
+- [Longplay 2.1: Interactive Widgets]({% link pr/ios-2.1.md %})
+- [Longplay 2.0]({% link pr/ios-2.0.md %})
