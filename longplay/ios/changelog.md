@@ -6,7 +6,7 @@ redirect_from:
 permalink: /changelog/
 ---
 
-## 2.1 - **Coming Soon**
+## 2.1
 
 _**See [Press Release](https://impresskit.net/press-release/85e446f7-a8eb-43f6-97af-a3666825e572)**_
 
