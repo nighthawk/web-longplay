@@ -6,6 +6,42 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.1.2
+
+Adds:
+
+- Tip jar
+- New setting on "Now Playing" widget to make the shuffle button always pick a random album, rather than reflecting the app's sort order or collection.
+
+Fixes:
+
+- Fix progress for Current Album Artwork in StandBy if primary colour is black
+- Fix playback from widget not restarting where you last left off
+- Fix low contrast colour issues in Now Playing widget, on Sonoma, and sometimes in-app
+- Fix for shuffle button occasionally getting stuck cycling through your albums
+- Fix crash due to hitting memory limits when importing libraries with large numbers of albums or many large album artworks
+- Fix album wall layout when selecting an album at the end
+- Removes "(No Title)" shortcuts in Spotlight search on iOS 17
+- Default "Now Playing" widget to show album art rather than spider chart
+- Minor style tweaks
+- Robustness and performance fixes
+
+## 2.1.1
+
+> 🎶 Baby, You Can Drive My Car 🎶
+
+Added:
+
+- New "Current Album Artwork" widget, which nicely complements the "Now Playing" widget in StandBy mode.
+- Shuffle button on the "Now Playing" won't get disabled if album just started playing; or configure the widget to always have the button enabled.
+- New "Recently Played" list item in CarPlay for your last listened album, in case you want to resume that in the car.
+
+Fixed:
+
+- Addresses issue where CarPlay might not show your collections
+- Playlist tracks maintain their order as defined in the playlist
+- Minor style tweaks for "Now Playing" widget
+
 ## 2.1
 
 _**See [Press Release](https://impresskit.net/press-release/85e446f7-a8eb-43f6-97af-a3666825e572)**_
