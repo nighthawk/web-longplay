@@ -6,7 +6,7 @@ redirect_from:
 permalink: /changelog/
 ---
 
-## 2.1.2
+## 2.1.2, 13 Oct 2023
 
 Adds:
 
@@ -26,7 +26,7 @@ Fixes:
 - Minor style tweaks
 - Robustness and performance fixes
 
-## 2.1.1
+## 2.1.1, 21 Sep 2023
 
 > 🎶 Baby, You Can Drive My Car 🎶
 
@@ -42,7 +42,7 @@ Fixed:
 - Playlist tracks maintain their order as defined in the playlist
 - Minor style tweaks for "Now Playing" widget
 
-## 2.1
+## 2.1, 18 Sep 2023
 
 _**See [Press Release](https://impresskit.net/press-release/85e446f7-a8eb-43f6-97af-a3666825e572)**_
 
@@ -67,7 +67,7 @@ Other improvements in this update:
 - New Shortcuts actions.
 - Now requires iOS 16.1
 
-## 2.0.1
+## 2.0.1, 9 Sep 2023
 
 > 🎶 Brand New Day 🎶 ...for a round of fixes:
 
@@ -86,7 +86,7 @@ Fixes:
 - Fixes some typos
 - Stability and performance improvements
 
-## 2.0
+## 2.0, 30 Aug 2023
 
 _**See [annoucement](https://adrian.schoenig.me/blog/2023/08/31/longplay-2.0/) and [Press Release](https://impresskit.net/press-release/8455872c-94d1-4134-aa59-383372f46b8c)**_
 
@@ -109,7 +109,7 @@ And a lot of other small-to-medium-sized improvements and fixes.
 
 ---
 
-## 1.2
+## 1.2, 21 Sep 2021
 
 > 🎶 I Got Some If You Need It 🎶
 
@@ -125,18 +125,18 @@ And a lot of other small-to-medium-sized improvements and fixes.
 - [Fix] Small tweak to light mode and when no albums are available
 - [Change] Requires iOS 15
 
-## 1.1.5
+## 1.1.5, 19 Mar 2021
 
 - [Fix] VoiceOver-related fix for the medium-sized widget
 - [Fix] The widget configuration now uses Longplay's colours
 
-## 1.1.4
+## 1.1.4, 29 Jan 2021
 
 > 🎶 Long Way To The Top 🎶
 
 - [New] Tapping near the top now scrolls to the top, as you'd expect.
 
-## 1.1.3
+## 1.1.3, 25 Nov 2020
 
 Interlude, with a few fixes:
 
@@ -144,7 +144,7 @@ Interlude, with a few fixes:
 - [Fix] Fix resizing glitch when scrolling playing album in and out of viewport
 - [Fix] Fix settings sometimes overlapping albums when returning to the app on iPad
 
-## 1.1.2
+## 1.1.2, 10 Oct 2020
 
 > 🎶 All The Small Things 🎶, something for everyone:
 
@@ -162,7 +162,7 @@ Interlude, with a few fixes:
 - [Fix] Removes potential for a crash when clearing the cache.
 - [Fix] Improved the performance for app start-up and when quickly scrolling through albums.
 
-## 1.1
+## 1.1, 17 Sep 2020
 
 > 🎶 Another Brick in the Wall 🎶, ready for iOS 14:
 
@@ -182,14 +182,14 @@ And a couple of fixes:
 - Fix of Z-order of the side settings on an iPad on launch
 - Address a crash after clearing the cache
 
-## 1.0.3
+## 1.0.3, 2 Sep 2020
 
 > 🎶 So Much To Say 🎶
 
 - More order when sorting by orderliness: Now sorts artists the same as the Music app, using "sort as" tags and properly handles compilations, intermingling them and and playlists according to their names. Also albums that include numbers are now sorted numerically; fans of the Dave Matthews Band and other jam bands might appreciate this.
 - Performance improvements for start-up, especially for large libraries. Should be noticable on second start-up after updating, as the first start-up will migrate to an updated on-disk cache.
 
-## 1.0.2
+## 1.0.2, 24 Aug 2020
 
 > 🎶 What Have We Found? 🎶
 
@@ -200,7 +200,7 @@ And a couple of fixes:
 - Performance improvements and stability tweaks, in particular for very large album collections.
   Thanks again for all the feedback so far. Much appreciated! -->
 
-## 1.0.1
+## 1.0.1, 20 Aug 2020
 
 🎶 Ch-ch-ch-changes 🎶
 
