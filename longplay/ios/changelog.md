@@ -6,6 +6,22 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.1.3, 19 Oct 2023
+
+Improved:
+
+- Adds page indicator on iPhone while swiping between settings, album wall and player. Fully VoiceOver accessible.
+- Omit „The“ from playlists when sorting alphabetically.
+
+Fixes:
+
+- The shuffle button in the Now Playing widget now shuffles through all your albums, not just a subset.
+- Fixes restoring selected collection on app-restart.
+- Fixes issues where some compilations might be missing primary artist.
+- Fix crash when using CarPlay when phone is set to German. 'tschuldigung.
+- Robustness tweak for stats calculation.
+- Reviewed and improved the VoiceOver support.
+
 ## 2.1.2, 13 Oct 2023
 
 Adds:
