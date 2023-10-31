@@ -17,6 +17,8 @@ url: "https://longplay.rocks"
 timezone: Australia/Sydney
 encoding: UTF-8
 
+appstore_id: 1495152002
+
 mastodon:
   username: longplay
   instance: indieapps.space
