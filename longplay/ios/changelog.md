@@ -6,6 +6,18 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.1.4, 5 Dec 2023
+
+> 🎶 Unstuck in time, running free 🎶
+
+Fixes:
+
+- Fix issue where tapping "Random" sort order again would not always re-shuffle
+- Fix issue where Album Wall widgets might be stuck on message to open Longplay
+- Fix issue where Album Wall widget that's set to display a collection in random order would not randomise its albums
+- Renames "Artist" parameter to "Album Artist" in "Find Album" shortcut to match what it actually does
+- Minor performance and stability improvements
+
 ## 2.1.3, 19 Oct 2023
 
 Improved:
