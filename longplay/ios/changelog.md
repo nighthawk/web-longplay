@@ -6,6 +6,28 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.1.6, 18 Dec 2023
+
+🎶 I can see clearly now 🎶
+
+Fixes:
+
+- Fixes low contrast of album queue icons on dark album artwork
+- Fixes low contrast of album queue list when listening to an album with light album artwork
+- Fix issue where Infinite Album Shuffle incorrectly shuffles from subset of albums
+- Re-shuffle the albums "behind" the shuffle button every couple of presses
+- Persist last used view between app restarts, i.e., in particular whether you were viewing albums or the player
+- Keep album size more similar between portrait and landscape orientations
+- Minor style tweaks for the track queue, improving contrast of the little stars, and automatically scrolling to the current track when it changes
+
+## 2.1.5, 6 Dec 2023
+
+> 🎶 Oops... I did it again. 🎶
+
+A quick regression fix:
+
+- Fix issue where Album Wall widgets might be stuck on message to open Longplay when randomising library
+
 ## 2.1.4, 5 Dec 2023
 
 > 🎶 Unstuck in time, running free 🎶
