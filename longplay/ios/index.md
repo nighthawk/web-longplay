@@ -235,7 +235,7 @@ testimonials:
 
 {% endcomment %}
 
-**[Available](https://apps.apple.com/us/app/longplay/id1495152002) for iOS 15 for iPhone, iPad, and iPod Touch, in English and German.**
+**[Available](https://apps.apple.com/us/app/longplay/id1495152002) for iOS 16 for iPhone, iPad, and iPod Touch, in English and German.**
 
 <div class="testimonials-wrapper">
   <div class="testimonials-flexslider">
