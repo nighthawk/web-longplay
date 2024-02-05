@@ -1,17 +1,17 @@
 # Site settings
 title: Longplay
-subtitle: Album player for iOS
+subtitle: Album player for iOS and visionOS
 logo: /images/longplay/icon.png
 
 author:
   name: Adrian Schönig
   email: adrian@schoenig.me
 copyright: |
-  © 2020-2023 [Adrian Schönig](https://adrian.schoenig.me/).
+  © 2020-2024 [Adrian Schönig](https://adrian.schoenig.me/).
 
   Powered by [Jekyll](https://jekyllrb.com) & [GitHub](https://github.com). Theme based on [So Simple](https://github.com/mmistakes/so-simple-theme). [Stats](https://longplay.goatcounter.com) powered by [GoatCounter](https://www.goatcounter.com).
 description: >
-  Longplay is the iOS app for music lovers who enjoy listening to full albums but have a hard time finding them in their music library. It provides a beautiful view of the album artworks of the (near) complete albums in your music library with one-tap access to play them.
+  Longplay is the iOS and visionOS app for music lovers who enjoy listening to full albums but have a hard time finding them in their music library. It provides a beautiful view of the album artworks of the (near) complete albums in your music library with one-tap access to play them.
 baseurl: ""
 url: "https://longplay.rocks"
 timezone: Australia/Sydney
