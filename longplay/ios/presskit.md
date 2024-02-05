@@ -10,11 +10,11 @@ permalink: /presskit/
 
 _App Store URL_: [https://apps.apple.com/us/app/longplay/id1495152002](https://apps.apple.com/us/app/longplay/id1495152002)
 
-_Pricing_: One-off purchase of USD 6 / GBP 6 / EUR 7 / AUD 9.
+_Pricing_: One-off purchase of USD 6 / GBP 6 / EUR 7 / AUD 9. Universal purchase for iOS and visionOS.
 
 _Developer_: [Adrian Schönig](https://adrian.schoenig.me)
 
-_Requirements_: iOS or iPadOS 16.1
+_Requirements_: iOS or iPadOS 16.1, visionOS 1.0
 
 _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://longplay.app](https://longplay.app) also exists but .rocks is preferred and .app redirects there)
 

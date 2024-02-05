@@ -6,6 +6,25 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.2, 6 Feb 2024
+
+🎶 I've been looking for… 🎶
+
+New:
+- A search box to filter the albums view by artist or title
+- Many, *many* new Shortcuts actions. Create a pretty image of your recently listened albums. Search albums by an artist, sort them by release date, and add them to your queue. Get album metrics and display them in Charty. Find albums by a genre and show them as an ad-hoc collection in the app. Resume your last Longplay session when putting on your smart glasses. Get creative!
+- Album inspector to browse tracks of any album, see album stats, and set/overwrite release year and artist sorting
+- Choose between skipping current track or album by long-tapping the "next" button in the Now Playing screen
+- New 'Release' sort order (but see the in-app guide for how the enable that, as it's not automatic)
+- Long-tapping an album will now also show release year, if known.
+
+Improved:
+- Refined the CarPlay experience
+- Sorting by "Stars" now considers the percentage of the album rated, and five stars tracks give an extra bonus
+
+Fixed:
+- Minor styling tweaks and fixes
+
 ## 2.1.6, 18 Dec 2023
 
 🎶 I can see clearly now 🎶

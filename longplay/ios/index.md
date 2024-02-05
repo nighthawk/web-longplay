@@ -61,8 +61,9 @@ feature_groups:
         fontawesome: fas fa-list-ul
         new_in: 2.0
       - title: Home Screen widgets
-        description: Mini album wall for your home screen, that doubles as a "Feeling lucky" play button.
+        description: Interactive widgets with a mini album wall or now playing information; control playback and shuffle right from your home screen.
         fontawesome: fas fa-th-large
+        new_in: 2.1
       - title: CarPlay
         description: Access your albums and collection from the comfort of your driver's seat. Perfect for long road trips.
         fontawesome: fas fa-car

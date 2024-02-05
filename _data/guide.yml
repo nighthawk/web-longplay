@@ -1,0 +1,244 @@
+intro:
+- title: Album Wall
+  description: >-
+    The Album Wall is the main view of Longplay. It shows you a filtered
+    view of those albums where you have added most of the songs to your
+    library.\n
+    \n
+    From this view you can browse your albums, play them, organise them
+    into collections and more.
+  how_to:
+    ios: >-
+      The Album Wall is in the middle of the settings and the Now Playing
+      view. Tap an album to play it, or long press it for additional options.
+    macos: >-
+      The Album Wall is shown in the Albums window. Click an album to play it,
+      or right click it for additional options.
+    visionos: >-
+      You can toggle between the Album Wall and the Now Playing view using
+      the buttons in the bottom ornament of the Longplay window. Select an
+      album to play it, or press and hold it for additional options.
+  sf_symbol: square.grid.2x2
+  font_awesome: fas fa-th-large
+  introduced:
+    ios: "1.0"
+    macos: "0.1"
+    visionos: "2.2"
+
+- title: Sorting
+  description: >-
+    Longplay lets you sort your albums by various unique sort orders,
+    such as *Orderliness* which sorts by artist, *Negligence* which reveals
+    highly rated albums that you haven't listened to in a while, and many more.\n
+    \n
+    See the 'Dictionary' for an explanation of the sort orders. Some of them
+    can also be further customised in the settings.
+  how_to:
+    ios: >-
+      The sort orders are accessible to the left of the Album Wall; swipe
+      to access them.
+    macos: >-
+      Click the sort button in the toolbar of the album window.
+    visionos: >-
+      Use the sort button in the top right of the album wall.
+  deep_link:
+    title: View Dictionary
+    url: longplay://dictionary
+  sf_symbol: arrow.up.arrow.down
+  font_awesome: fas fa-sort
+  introduced:
+    ios: "1.0"
+    macos: "0.1"
+    visionos: "2.2"
+  revisions:
+    - version:
+        ios: "2.2"
+        macos: "0.5"
+      description: >-
+        The 'Stars' got improved to consider the amount and duration of tracks
+        rated and to give a bigger bump to tracks rated with 5 stars.
+
+- title: Now Playing
+  description: >-
+    The Now Playing view shows you what is currently playing, lets you control
+    playback, play a new random album, view the track list and your album queue.
+  how_to:
+    ios: >-
+      The Now Playing view is accessible to the right of the Album Wall; swipe
+      to access it.
+    macos: >-
+      Click the Now Playing indicator in the toolbar of the album window to show
+      the Mini Player, or use the 'Window' menu.
+    visionos: >-
+      Tap the Now Playing indicator in the bottom ornament of Album Wall window.
+  sf_symbol: music.note
+  font_awesome: fas fa-music
+  introduced:
+    ios: "2.0"
+    macos: "0.1"
+    visionos: "2.2"
+
+- title: Immersive Mode
+  description: >-
+    View your albums as a life-size wall of album artwork, that curves around
+    you. Select albums to play, sort them, or use the playback controls to
+    control your music.
+  how_to:
+    visionos: >-
+      Tap the immersive mode button in the bottom right of the album wall
+      or the now playing screen.
+  sf_symbol: square.grid.2x2
+  font_awesome: fas fa-th-large
+  introduced:
+    visionos: "2.2"
+
+basics:
+- title: Collections
+  description: >-
+    Group your albums and playlists, for a road trip, kids, by language, live 
+    albums, you name it.
+  sf_symbol: rectangle.grid.2x2
+  font_awesome: fas fa-folder
+  introduced:
+    ios: "2.0"
+    macos: "0.1"
+    visionos: "2.2"
+
+- title: Infinite Album Shuffle
+  description: >-
+    Stay in the flow, with a smart shuffle depending on your current collection 
+    or sort order.
+  sf_symbol: infinity
+  font_awesome: fas fa-random
+  introduced:
+    ios: "2.0"
+    macos: "0.1"
+    visionos: "2.2"
+
+- title: Album Queue
+  description: >-
+    Do it your way and queue up albums manually.
+  sf_symbol: list.number
+  font_awesome: fas fa-list-ul
+  introduced:
+    ios: "2.0"
+    macos: "0.1"
+    visionos: "2.2"
+
+- title: Library Search
+  description: >-
+    Search for albums in your library by artist or title. Quickly play those
+    albums, add them to your queue, or add them to your collection.\n
+    \n
+    Each word is treated like its own search term, and you can exclude words
+    by prefixing them with a hyphen. For example, searching for
+    `beatles -white` will return all albums by The Beatles except for The
+    White Album.
+  how_to:
+    ios: >-
+      Access the search by tapping the magnifying glass icon in the top left
+      of the album wall, and then start typing.
+    macos: >-
+      Use the search bar in the toolbar of the album window.
+    visionos: >-
+      Use the search bar in the top right of the album wall.
+  sf_symbol: magnifyingglass
+  font_awesome: fas fa-search
+  introduced:
+    ios: "2.2"
+    macos: "0.5"
+    visionos: "2.2"
+
+- title: CarPlay
+  description: >-
+    Access your albums and collections from your driver's seat. Perfect for
+    road trips.
+  sf_symbol: car
+  font_awesome: fas fa-car
+  introduced:
+    ios: "2.0"
+  revisions:
+    - version:
+        ios: "2.2"
+      description: >-
+        Optimised CarPlay interface to be more space efficient, and let you
+        access all your collections also while driving.
+
+advanced:
+- title: Album Inspector
+  description: >-
+    The album inspector shows you information about an album, including its
+    tracks, release year, and various statistics and metrics. You can also
+    adjust an album's release year or sorting or rate tracks from the
+    inspector.
+  how_to:
+    ios: >-
+      Long press on an album and select 'Get Info'.
+    macos: >-
+      Right click on an album and select 'Get Info'.
+    visionos: >-
+      Tap and hold an album and select 'Get Info'.
+  sf_symbol: info.circle
+  font_awesome: fas fa-info-circle
+  introduced:
+    ios: "2.2"
+    macos: "0.5"
+    visionos: "2.2"
+
+- title: Scrobbling
+  description: >-
+    Scrobble using Last.fm or track you listens using ListenBrainz.
+    Longplay will submit your played tracks.
+  deep_link:
+    title: Configure
+    url: longplay://scrobble
+  sf_symbol: recordingtape
+  font_awesome: fas fa-arrow-up
+  introduced:
+    ios: "2.0"
+    macos: "0.1"
+    visionos: "2.2"
+
+- title: Shortcuts
+  description: >-
+    Longplay now features over two dozen Shortcuts action for controlling
+    anything from playback to your queue to your library. You can find and 
+    filter items by many different criteria, including genre or the number
+    of collections they are in. You can get the album artwork for albums,
+    view them in Longplay as an ad-hoc collection, and many more things.\n
+    \n
+    View the Shortcuts examples in the app for some inspiration, or check out
+    the list of Shortcuts actions in the Shortcuts app.
+  # deep_link:
+  #   title: Shortcuts Examples
+  #   url: longplay://shortcuts_examples
+  sf_symbol: bolt.horizontal.icloud
+  font_awesome: fas fa-bolt
+  introduced:
+    ios: "2.2"
+    macos: "0.5"
+    visionos: "2.2"
+
+- title: Sort by Release
+  description: >-
+    Sort your library by release year to see your albums in chronological
+    order, and to see an artists' albums in the order they were released when
+    using the 'Orderliness' sort.\n
+  how_to:
+    ios: >-
+      The 'Release' sort order is only available when you have albums with a
+      release year set, which currently has to be done manually, through the Mac
+      companion app or by using the 'Populate Release Years' example Shortcut.
+    macos: >-
+      The albums' release years are populated automatically on the Mac, and you
+      customise them with the album inspector.
+    visionos: >-
+      The 'Release' sort order is only available when you have albums with a
+      release year set, which currently has to be done manually, through the Mac
+      companion app or by using the 'Populate Release Years' example Shortcut.    
+  sf_symbol: calendar
+  font_awesome: fas fa-calendar
+  introduced:
+    ios: "2.2"
+    macos: "0.5"
+    visionos: "2.2"
