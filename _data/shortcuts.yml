@@ -5,7 +5,10 @@
     description: >-
       Populates release year information in Longplay by looking up albums in Apple Music.\n
       \n
-      Use this to unlock the 'Release' sort order.
+      Use this to unlock the 'Release' sort order.\n
+      \n
+      If you get warning about too many items being shared, you can grant permissions for that
+      in the Settings app under Shortcuts > Advanced > 'Allow Sharing Large Amounts of Data'.
     required:
       iOS: "2.2"
       visionOS: "2.2"
