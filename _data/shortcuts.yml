@@ -1,0 +1,46 @@
+- title: Featured
+  shortcuts:
+  - title: Populate Release Years
+    url: https://www.icloud.com/shortcuts/1fe8d1aab5c84cc3ab43d07dbad2109d
+    description: >-
+      Populates release year information in Longplay by looking up albums in Apple Music.\n
+      \n
+      Use this to unlock the 'Release' sort order.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"
+  - title: Rate or Play
+    url: https://www.icloud.com/shortcuts/780e145622da4e5caf132b56b64b07be
+    description: >-
+      Checks if something playing and if so asks you to rate the track (showing current rating). 
+      If nothing is playing, it starts playback.\n
+      \n
+      This works great as a Shortcuts button on your lock screen.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"
+  - title: Artist Wall Image
+    url: https://www.icloud.com/shortcuts/d57ebeefbe2545bd9bbda896f84460d0
+    description: >-
+      Asks for an artist, gets your albums of that artists and then creates an image of the 
+      matching album artwork as a grid.\n
+      \n
+      Share on social media, add to your journal, use as a wallpaper. Tweak the filters to create
+      album wall images of specific genres, collections, you name it.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"
+- title: "More"
+  shortcuts:
+  - title: Current Track Details
+    url: https://www.icloud.com/shortcuts/0223ae4401ad4bfe9dca7c196ac357cb
+    description: Gets the current track, then the details of the album, and shows them.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"
+  - title: Clean Bad Release Years
+    url: https://www.icloud.com/shortcuts/fd0ee6d5edb241e7b97f1120c8b16f8a 
+    description: Looks for albums with a release year in the far future and removes that information.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"
