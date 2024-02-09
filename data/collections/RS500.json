@@ -106,7 +106,7 @@
             "album": "Thriller",
             "year": 1982,
             "appleMusicURL": "https:\/\/music.apple.com\/album\/thriller\/269572838?i=269573303&l=en-GB",
-            "appleMusicID": "GB",
+            "appleMusicID": "269572838",
             "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-012-MichaelJacksonThriller.jpg"
         },
         {
@@ -115,7 +115,7 @@
             "album": "I Never Loved a Man the Way I Love You",
             "year": 1967,
             "appleMusicURL": "https:\/\/music.apple.com\/album\/i-never-loved-a-man-the-way-i-love-you\/937107826?i=937107841&l=en-GB",
-            "appleMusicID": "GB",
+            "appleMusicID": "937107826",
             "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-013-ArethaFrankNEVERLOVED-H.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "album": "London Calling",
             "year": 1979,
             "appleMusicURL": "https:\/\/music.apple.com\/album\/london-calling\/684811762?i=684811768&l=en-GB",
-            "appleMusicID": "GB",
+            "appleMusicID": "684811762",
             "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/016-Clash-LONDON-CALLING.jpg"
         },
         {
@@ -160,7 +160,7 @@
             "album": "Highway 61 Revisited",
             "year": 1965,
             "appleMusicURL": "https:\/\/music.apple.com\/album\/highway-61-revisited\/201281514?i=201283479&l=en-GB",
-            "appleMusicID": "GB",
+            "appleMusicID": "201281514",
             "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-018-Bob-Dylan-HWY-61-REVISITED-updated.jpg"
         },
         {
@@ -187,7 +187,7 @@
             "album": "Born to Run",
             "year": 1975,
             "appleMusicURL": "https:\/\/music.apple.com\/album\/born-to-run\/310730204?i=310730214&l=en-GB",
-            "appleMusicID": "GB",
+            "appleMusicID": "310730204",
             "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-021-Bruce-Springsteen-BORN-TO-RUN.jpg"
         },
         {
@@ -574,7 +574,7 @@
             "album": "Stankonia",
             "year": 2000,
             "appleMusicURL": "https:\/\/music.apple.com\/album\/ms-jackson\/255836651?i=255836745&l=en-GB",
-            "appleMusicID": "GB",
+            "appleMusicID": "255836651",
             "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-064-outkast-stankonia.jpg"
         },
         {
