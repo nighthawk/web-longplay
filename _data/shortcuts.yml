@@ -12,6 +12,21 @@
     required:
       iOS: "2.2"
       visionOS: "2.2"
+  - title: Smart Collection
+    url: https://www.icloud.com/shortcuts/eb2e96ce3773423fa7229acef5b94524
+    description: >-
+      Creates an ad-hoc collection of albums based on a set of criteria you define, and shows
+      that in the app. From there you can listen to them, add them to your queue, or add them
+      to a collection.\n
+      \n
+      It will prompt to specify filters, which can be based on artist, genre, release year,
+      and many more options.\n
+      \n
+      Note that the displayed collection won't auto-update. So you'll have to run the Shortcut
+      again to see changes.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"
   - title: Rate or Play
     url: https://www.icloud.com/shortcuts/780e145622da4e5caf132b56b64b07be
     description: >-
