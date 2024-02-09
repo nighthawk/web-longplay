@@ -49,6 +49,14 @@
       visionOS: "2.2"
 - title: "More"
   shortcuts:
+  - title: Albums not added to collections
+    url: https://www.icloud.com/shortcuts/8785df870cc64bc697676358b9e2ac38
+    description: >-
+      Opens an ad-hoc collection of albums that are not in any collection. Add them to your
+      collections from that view and give them a home.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"  
   - title: Current Track Details
     url: https://www.icloud.com/shortcuts/0223ae4401ad4bfe9dca7c196ac357cb
     description: Gets the current track, then the details of the album, and shows them.
