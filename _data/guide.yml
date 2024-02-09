@@ -209,9 +209,9 @@ advanced:
     \n
     View the Shortcuts examples in the app for some inspiration, or check out
     the list of Shortcuts actions in the Shortcuts app.
-  # deep_link:
-  #   title: Shortcuts Examples
-  #   url: longplay://shortcuts_examples
+  deep_link:
+    title: Example Shortcuts
+    url: longplay://shortcuts_examples
   sf_symbol: bolt.horizontal.icloud
   font_awesome: fas fa-bolt
   introduced:
