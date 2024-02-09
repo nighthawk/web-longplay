@@ -49,7 +49,7 @@
       visionOS: "2.2"
 - title: "More"
   shortcuts:
-  - title: Albums not added to collections
+  - title: Albums Not Added to Collections
     url: https://www.icloud.com/shortcuts/8785df870cc64bc697676358b9e2ac38
     description: >-
       Opens an ad-hoc collection of albums that are not in any collection. Add them to your
