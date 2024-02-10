@@ -1,0 +1,906 @@
+{
+    "name": "The New Yorker: 100 Essential Jazz Albums",
+    "article_url": "https:\/\/www.newyorker.com\/magazine\/2008\/05\/19\/100-essential-jazz-albums",
+    "albums": [
+        {
+            "rank": 1,
+            "artist": "Fats Waller",
+            "album": "Handful of Keys",
+            "year": 2004,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/a-handful-of-keys\/287436842",
+            "appleMusicID": "287436842",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/d4\/54\/05\/mzi.iyqvpzxg.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 2,
+            "artist": "King Oliver",
+            "album": "King Oliver\u2019s Creole Jazz Band: The Complete Set",
+            "year": 1997,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/ultimate-collection\/305077516",
+            "appleMusicID": "305077516",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/e4\/5f\/ab\/e45fab68-8f63-f045-ef9e-9423918ac5ee\/mzi.lszzjand.tif\/600x600bb.jpg"
+        },
+        {
+            "rank": 3,
+            "artist": "Louis Armstrong",
+            "album": "The Complete Hot Five and Hot Seven Recordings",
+            "year": 2006,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-hot-five-hot-seven-recordings\/477023849",
+            "appleMusicID": "477023849",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features\/v4\/a6\/37\/90\/a6379001-6d78-77af-64a8-2d370390d345\/dj.xhneepwy.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 4,
+            "artist": "Louis Armstrong",
+            "album": "The Complete RCA Victor Recordings",
+            "year": 2001,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/louis-armstrong-complete-rca-victor-recordings-remastered\/270473182",
+            "appleMusicID": "270473182",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/46\/c8\/ff\/mzi.gpifbfvr.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 5,
+            "artist": "Louis Armstrong",
+            "album": "Louis Armstrong Plays W. C. Handy",
+            "year": 1954,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/louis-armstrong-plays-w-c-handy\/158691605",
+            "appleMusicID": "158691605",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/b5\/5f\/98\/mzi.rrovafso.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 6,
+            "artist": "Fletcher Henderson",
+            "album": "Tidal Wave",
+            "year": 1994,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/fletcher-henderson-blue-rhythm-1931-1933\/193137669",
+            "appleMusicID": "193137669",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/95\/b8\/b8\/mzi.qvybaduz.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 7,
+            "artist": "Bessie Smith",
+            "album": "The Essential Bessie Smith",
+            "year": 1997,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-essential-bessie-smith\/740001646",
+            "appleMusicID": "740001646",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/12\/42\/d1\/1242d169-4eb6-450b-f68c-f49355cc6306\/886444234061.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 8,
+            "artist": "Bix Beiderbecke",
+            "album": "The Bix Beiderbecke Story",
+            "year": 2003,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-bix-beiderbecke-story\/268432459",
+            "appleMusicID": "268432459",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/3e\/23\/2c\/mzi.uuyvlkpl.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 9,
+            "artist": "Django Reinhardt",
+            "album": "The Classic Early Recordings in Chronological Order",
+            "year": 2000,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-essential-collection-digitally-remastered\/340634202",
+            "appleMusicID": "340634202",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/1e\/6f\/10\/mzi.aoanyqbr.tif\/600x600bb.jpg"
+        },
+        {
+            "rank": 10,
+            "artist": "Jelly Roll Morton",
+            "album": "Jelly Roll Morton: 1926-1930",
+            "year": 2000,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/jelly-roll-morton-original-recordings-1926-29\/978993146",
+            "appleMusicID": "978993146",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music3\/v4\/90\/7d\/8d\/907d8d48-9b9a-18bc-0771-cb2c7e45ef97\/MortonArt.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 11,
+            "artist": "Sidney Bechet",
+            "album": "The Sidney Bechet Story",
+            "year": 2001,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-sidney-bechet-story\/603701618",
+            "appleMusicID": "603701618",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/3c\/e2\/a5\/3ce2a5d4-2602-c41e-512d-c635e858ff9d\/Cover.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 12,
+            "artist": "Duke Ellington",
+            "album": "The OKeh Ellington",
+            "year": 1991,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/ellington-in-order-volume-2-1928-30\/1696981106",
+            "appleMusicID": "1696981106",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/d3\/f3\/4f\/d3f34fc3-be88-caf6-2dba-a3c41741058b\/196871136938.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 13,
+            "artist": "Duke Ellington",
+            "album": "Golden Greats",
+            "year": 2002,
+            "appleMusicURL": null,
+            "appleMusicID": null,
+            "imageURL": null
+        },
+        {
+            "rank": 14,
+            "artist": "Duke Ellington",
+            "album": "Never No Lament: The Blanton-Webster Band",
+            "year": 2003,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/never-no-lament-the-blanton-webster-band-remastered\/164149672",
+            "appleMusicID": "164149672",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/db\/4a\/a1\/db4aa1f4-264e-fdae-d7a4-40e72e26c991\/828765085724.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 15,
+            "artist": "Duke Ellington",
+            "album": "Ellington at Newport 1956",
+            "year": 1999,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/ellington-at-newport-1956-complete-live\/999653079",
+            "appleMusicID": "999653079",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music1\/v4\/07\/b2\/61\/07b26127-2169-d5db-efa5-559d422a9d31\/886445222135.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 16,
+            "artist": "Duke Ellington",
+            "album": "Money Jungle",
+            "year": 1962,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/money-jungle\/724777639",
+            "appleMusicID": "724777639",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/ff\/23\/a6\/ff23a6c1-207c-6039-a7aa-4e007d800ed8\/00724353822750.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 17,
+            "artist": "Coleman Hawkins",
+            "album": "The Essential Sides Remastered, 1929-39",
+            "year": 2006,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-essential-sides-remastered-1936-1939\/208457807",
+            "appleMusicID": "208457807",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features\/1c\/5f\/25\/dj.gtcajhlo.tif\/600x600bb.jpg"
+        },
+        {
+            "rank": 18,
+            "artist": "Coleman Hawkins",
+            "album": "The Bebop Years",
+            "year": 2001,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-bebop-years\/485578808",
+            "appleMusicID": "485578808",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/bb\/f6\/0c\/mzi.nchlbarz.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 19,
+            "artist": "Billie Holiday",
+            "album": "Lady Day: The Master Takes and Singles",
+            "year": 2007,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-very-best-of-billie-holiday-the-100-best\/951129081",
+            "appleMusicID": "951129081",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music5\/v4\/cb\/33\/87\/cb3387a0-ec43-f8bf-481b-ba05f87183d5\/cover.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 20,
+            "artist": "Teddy Wilson",
+            "album": "The Noble Art of Teddy Wilson",
+            "year": 2002,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-noble-art-of-teddy-wilson\/274345179",
+            "appleMusicID": "274345179",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/5e\/13\/3b\/5e133b8e-8a67-7e25-db84-1a3a8cfaaee0\/mzi.zhdgwuvv.tif\/600x600bb.jpg"
+        },
+        {
+            "rank": 21,
+            "artist": "Lester Young",
+            "album": "The Lester Young\/Count Basie Sessions 1936-40",
+            "year": 2008,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-lester-young-count-basie-sessions-mono-version\/871747234",
+            "appleMusicID": "871747234",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music6\/v4\/8d\/8d\/e3\/8d8de3e6-1141-c73c-5eac-9cf2b305d20f\/cover.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 22,
+            "artist": "Lester Young",
+            "album": "Kansas City Swing",
+            "year": 2004,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-essential-keynote-collection-1-the-complete\/1444109561",
+            "appleMusicID": "1444109561",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/44\/33\/98\/443398eb-d44c-91d9-ed0f-716ea38c420f\/00042283092020.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 23,
+            "artist": "Count Basie",
+            "album": "The Complete Decca Recordings",
+            "year": 1992,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-decca-recordings\/1427369671",
+            "appleMusicID": "1427369671",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/63\/b9\/76\/63b97602-12cd-d565-ac06-6a8101d90733\/00602567850182.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 24,
+            "artist": "Count Basie",
+            "album": "The Complete Atomic Basie",
+            "year": 1994,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-atomic-basie\/696933995",
+            "appleMusicID": "696933995",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/e0\/91\/48\/e0914807-e319-bbde-9dcb-33d54a2ffadc\/0724382863557_1401x1401_300dpi.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 25,
+            "artist": "Benny Goodman",
+            "album": "At Carnegie Hall\u20141938\u2014Complete",
+            "year": 1999,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-famous-1938-carnegie-hall-jazz-concert-live\/169853677",
+            "appleMusicID": "169853677",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/51\/2c\/09\/mzi.ghpdiyij.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 26,
+            "artist": "John Kirby Sextet",
+            "album": "Night Whispers: 1938-46",
+            "year": 2005,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/john-kirby-platinum-series-remastered\/511875121",
+            "appleMusicID": "511875121",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/fe\/49\/23\/fe4923d3-97d9-4141-4691-3f373990b993\/John_Kirby.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 27,
+            "artist": "Chick Webb",
+            "album": "Stomping at the Savoy",
+            "year": 2006,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/stomping-at-the-savoy\/214708540",
+            "appleMusicID": "214708540",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/67\/41\/5b\/mzi.dpilsqte.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 28,
+            "artist": "Benny Carter",
+            "album": "3, 4, 5: The Verve Small Group Sessions",
+            "year": 1991,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/3-4-5-the-verve-small-group-sessions\/1444163040",
+            "appleMusicID": "1444163040",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/be\/c2\/c1\/bec2c180-b367-8a56-f494-41f5bd8e131a\/00042284939522.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 29,
+            "artist": "Charlie Christian",
+            "album": "The Genius of the Electric Guitar",
+            "year": 2005,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-genius-of-the-electric-guitar\/186263765",
+            "appleMusicID": "186263765",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features124\/v4\/99\/2a\/db\/992adb59-3327-3b9c-d3ac-fd954015e3ad\/dj.vpniaeoc.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 30,
+            "artist": "James P. Johnson",
+            "album": "The Original James P. Johnson: 1942-1945 Piano Solos",
+            "year": 1996,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-original-james-p-johnson-1942-1945-piano-solos\/262219544",
+            "appleMusicID": "262219544",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/54\/b3\/04\/mzi.dqcepmvh.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 31,
+            "artist": "The Nat King Cole Trio",
+            "album": "The Best of the Nat King Cole Trio: The Vocal Classics, Vol. 1, 1942-1946",
+            "year": 1995,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-capitol-transcription-sessions\/724640885",
+            "appleMusicID": "724640885",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/20\/e6\/ad\/20e6adad-7878-595a-dd1c-dd2c88126635\/00094633395855.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 32,
+            "artist": "Charlie Parker",
+            "album": "The Complete Savoy and Dial Sessions",
+            "year": 2005,
+            "appleMusicURL": null,
+            "appleMusicID": null,
+            "imageURL": null
+        },
+        {
+            "rank": 33,
+            "artist": "Charlie Parker",
+            "album": "Bird: The Complete Charlie Parker on Verve",
+            "year": 1988,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/bird-the-complete-charlie-parker-on-verve\/1427831174",
+            "appleMusicID": "1427831174",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/9c\/b4\/2d\/9cb42d40-c3d1-b249-9114-998919b7ab7e\/00602567848738.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 34,
+            "artist": "Charlie Parker",
+            "album": "Best of the Complete Live Performances on Savoy",
+            "year": 2002,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/best-of-the-complete-savoy-dial-studio-recordings\/1518867397",
+            "appleMusicID": "1518867397",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/d2\/da\/e9\/d2dae9ba-93e2-390f-7c76-08891d35386b\/20CRGIM23230.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 35,
+            "artist": "Dizzy Gillespie and Charlie Parker",
+            "album": "Town Hall, New York City, June 22, 1945",
+            "year": 2005,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/bird-in-la-live\/1679465649",
+            "appleMusicID": "1679465649",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/c6\/62\/3b\/c6623be1-7dfc-5f04-8117-9a76c166d8dc\/23UMGIM07538.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 36,
+            "artist": "Dizzy Gillespie",
+            "album": "The Complete RCA Victor Recordings, 1947-49",
+            "year": 1995,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-rca-victor-recordings\/298320892",
+            "appleMusicID": "298320892",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/1c\/5a\/5e\/mzi.wklmiapu.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 37,
+            "artist": "Thelonious Monk",
+            "album": "Genius of Modern Music, Vol. 1",
+            "year": 2001,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/genius-of-modern-music-complete-remastered\/723533894",
+            "appleMusicID": "723533894",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/49\/00\/2d\/49002d37-68b5-b6ea-243d-e2e152375015\/00724353213855.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 38,
+            "artist": "Thelonious Monk",
+            "album": "Live at the It Club, 1964",
+            "year": 1998,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/thelonious-monk-live-at-the-it-club-complete\/532917847",
+            "appleMusicID": "532917847",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/67\/e3\/08\/67e30894-2fb9-0bdc-ae63-b5c94c999fc3\/074646528822.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 39,
+            "artist": "Thelonious Monk",
+            "album": "Thelonious Monk with John Coltrane: The Complete 1957 Riverside Recordings",
+            "year": 2006,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-1957-riverside-recordings\/1453155105",
+            "appleMusicID": "1453155105",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/b8\/8a\/3e\/b88a3e85-2159-521c-b1d4-2f12e62293d5\/00888072021488.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 40,
+            "artist": "Lennie Tristano and Warne Marsh",
+            "album": "Intuition",
+            "year": 1996,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/intuition\/724175009",
+            "appleMusicID": "724175009",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/2f\/1c\/74\/2f1c7420-959e-ca63-b7a2-d7ab0b4623db\/00724385277153.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 41,
+            "artist": "Miles Davis",
+            "album": "The Complete Birth of the Cool",
+            "year": 1998,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-birth-of-the-cool\/1458147618",
+            "appleMusicID": "1458147618",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/59\/92\/75\/599275f4-2e85-4286-7481-98aa45294dd8\/00602577578601.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 42,
+            "artist": "Miles Davis",
+            "album": "Bags\u2019 Groove",
+            "year": 1954,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/bags-groove-remastered\/1440943873",
+            "appleMusicID": "1440943873",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/fe\/c3\/ff\/fec3ffc6-a2e1-f294-124e-eaa631554ad4\/13CMGIM00503.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 43,
+            "artist": "Miles Davis",
+            "album": "Kind of Blue",
+            "year": 1959,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/kind-of-blue\/268443092",
+            "appleMusicID": "268443092",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/7f\/9f\/d6\/mzi.vtnaewef.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 44,
+            "artist": "Miles Davis",
+            "album": "Highlights from the Plugged Nickel",
+            "year": 1995,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/at-plugged-nickel-chicago-live\/833070903",
+            "appleMusicID": "833070903",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music5\/v4\/c8\/9d\/71\/c89d7107-ed98-92f0-eeff-431d0d7a2abb\/dj.hoxgxrfv.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 45,
+            "artist": "Miles Davis",
+            "album": "Bitches Brew",
+            "year": 1969,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/bitches-brew\/168376392",
+            "appleMusicID": "168376392",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/9b\/e1\/63\/9be1630c-486d-760c-76cf-04282174700a\/074646577424.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 46,
+            "artist": "Bud Powell",
+            "album": "The Amazing Bud Powell, Vol. 1",
+            "year": 2001,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-amazing-bud-powell-vol-1-the-rudy-van-gelder-edition\/738341407",
+            "appleMusicID": "738341407",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music6\/v4\/c8\/71\/15\/c87115f3-76bb-e4b9-eb62-f7b58258ac21\/00724353213657.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 47,
+            "artist": "Gerry Mulligan",
+            "album": "The Original Quartet with Chet Baker",
+            "year": 1998,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-best-of-the-gerry-mulligan-quartet-with-chet-baker\/723734657",
+            "appleMusicID": "723734657",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/70\/e2\/16\/70e21660-4915-a01f-b1da-a6410bf73290\/00077779548156.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 48,
+            "artist": "Modern Jazz Quartet",
+            "album": "Django",
+            "year": 1953,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/django-original-album-plus-bonus-tracks-1958\/680975024",
+            "appleMusicID": "680975024",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/f6\/cc\/db\/f6ccdb6d-ff55-5da8-0f73-91f708244c8f\/cover.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 49,
+            "artist": "Art Tatum",
+            "album": "The Best of the Pablo Solo Masterpieces",
+            "year": 2003,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-best-of-the-pablo-group-masterpieces-remastered\/1452789403",
+            "appleMusicID": "1452789403",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/0e\/6b\/9c\/0e6b9c2f-8231-2991-93a2-7d207383b7b8\/00025218044028.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 50,
+            "artist": "Clifford Brown and Max Roach",
+            "album": "Clifford Brown & Max Roach",
+            "year": 1954,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/clifford-brown-and-max-roach\/1434920027",
+            "appleMusicID": "1434920027",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/cd\/2a\/64\/cd2a64bd-ddec-bf69-76cc-99852bdc1b56\/00602567828495.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 51,
+            "artist": "Sarah Vaughan",
+            "album": "Sarah Vaughan with Clifford Brown",
+            "year": 1954,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-singers-sessions-with-dinah-washington-sarah\/1435944621",
+            "appleMusicID": "1435944621",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/f1\/b8\/63\/f1b86361-4716-5bbe-584e-ebcf7f27de98\/12UMGIM51645.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 52,
+            "artist": "Charles Mingus",
+            "album": "Mingus at the Bohemia",
+            "year": 1955,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/mingus-at-the-bohemia-live\/1471622131",
+            "appleMusicID": "1471622131",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/0a\/c2\/2e\/0ac22e6f-b45d-c60c-2785-8b850b634b0e\/06UMGIM49063.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 53,
+            "artist": "Charles Mingus",
+            "album": "Mingus Ah Um",
+            "year": 1959,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/mingus-ah-um-legacy-edition\/315947000",
+            "appleMusicID": "315947000",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/85\/f3\/ef\/mzi.etlgbitd.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 54,
+            "artist": "Charles Mingus Sextet",
+            "album": "Cornell 1964",
+            "year": 2007,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/cornell-1964-with-eric-dolphy\/720113157",
+            "appleMusicID": "720113157",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/7a\/33\/00\/7a330073-f2b2-8f58-9464-b977eaf171bc\/00094639221158.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 55,
+            "artist": "Ella Fitzgerald",
+            "album": "Ella Fitzgerald Sings the Cole Porter Songbook",
+            "year": 1956,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/ella-fitzgerald-sings-the-cole-porter-songbook\/1434898416",
+            "appleMusicID": "1434898416",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/28\/20\/f7\/2820f7b0-f2de-f02f-5087-fc8df5306f48\/06UMGIM14607.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 56,
+            "artist": "Sonny Rollins",
+            "album": "Saxophone Colossus",
+            "year": 1956,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/saxophone-colossus-reissue\/1440737584",
+            "appleMusicID": "1440737584",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/31\/39\/11\/31391100-1c51-40d4-de7e-6c20337892b2\/00025218810524.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 57,
+            "artist": "Sonny Rollins",
+            "album": "Night at the Village Vanguard",
+            "year": 1957,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-night-at-the-village-vanguard\/1459940991",
+            "appleMusicID": "1459940991",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/70\/88\/f6\/7088f66b-afc6-b320-6678-164798d9c819\/00602577697159.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 58,
+            "artist": "Sonny Rollins and Coleman Hawkins",
+            "album": "Sonny Meets Hawk!",
+            "year": 1963,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/sonny-meets-hawk-remastered\/304784291",
+            "appleMusicID": "304784291",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/07\/04\/9a\/mzi.stskbtwb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 59,
+            "artist": "Tito Puente",
+            "album": "King of Kings: The Very Best of Tito Puente",
+            "year": 2002,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/king-of-kings-the-very-best-of-tito-puente\/304746406",
+            "appleMusicID": "304746406",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/08\/23\/57\/08235704-8bd3-bbb8-7e60-bc5d4cf563c7\/mzi.ellzqzld.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 60,
+            "artist": "Sun Ra",
+            "album": "Greatest Hits\u2014Easy Listening for Intergalactic Travel",
+            "year": 2000,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/jazz-in-silhouette-expanded-edition\/1692814231",
+            "appleMusicID": "1692814231",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/a1\/89\/70\/a18970ab-52ac-f37e-2fc8-b4aed5650090\/Jazz_in_Silhouette_2023_cover_art.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 61,
+            "artist": "Abbey Lincoln",
+            "album": "That\u2019s Him",
+            "year": 1957,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/thats-him\/1434513958",
+            "appleMusicID": "1434513958",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/58\/a7\/43\/58a7435e-450b-a87c-2632-d73b09e7aebd\/5055869531412.png\/600x600bb.jpg"
+        },
+        {
+            "rank": 62,
+            "artist": "Art Blakey and the Jazz Messengers",
+            "album": "Moanin\u2019",
+            "year": 1958,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/moanin\/1459438950",
+            "appleMusicID": "1459438950",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/24\/65\/64\/2465645a-7d7f-63a9-e0bb-097cdc6bd6a8\/19UMGIM32054.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 63,
+            "artist": "Ahmad Jamal Trio",
+            "album": "Cross Country Tour: 1958-1961",
+            "year": 1998,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-1958-spotlight-club-performances\/1433994770",
+            "appleMusicID": "1433994770",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/6d\/96\/fb\/6d96fb44-be01-fa95-908d-9af16f2d370f\/666496811829.png\/600x600bb.jpg"
+        },
+        {
+            "rank": 64,
+            "artist": "The Dave Brubeck Quartet",
+            "album": "Time Out",
+            "year": 1959,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/time-out\/316351910",
+            "appleMusicID": "316351910",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/af\/6b\/27\/af6b2795-f5ed-c0fe-292c-d5738413a63d\/mzi.gdsbdhlx.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 65,
+            "artist": "Jimmy Witherspoon",
+            "album": "The \u2019Spoon Concerts",
+            "year": 1989,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-concerts-live\/1443779539",
+            "appleMusicID": "1443779539",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/87\/77\/2c\/87772cb9-232f-565e-8762-111b00a63b8e\/00025218240123.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 66,
+            "artist": "Ornette Coleman",
+            "album": "Beauty Is a Rare Thing: The Complete Atlantic Recordings",
+            "year": 1993,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/beauty-is-a-rare-thing-the-complete-atlantic-recordings\/50234195",
+            "appleMusicID": "50234195",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/y2005\/m03\/d14\/h21\/s06.slxkxgwy.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 67,
+            "artist": "Ornette Coleman",
+            "album": "Dancing in Your Head",
+            "year": 1973,
+            "appleMusicURL": null,
+            "appleMusicID": null,
+            "imageURL": null
+        },
+        {
+            "rank": 68,
+            "artist": "Freddie Hubbard",
+            "album": "Open Sesame",
+            "year": 1960,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/open-sesame-the-rudy-van-gelder-edition-remastered\/724538312",
+            "appleMusicID": "724538312",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/f7\/de\/4e\/f7de4e38-dde5-8d89-534c-1feb1fe7cbb2\/00724349534155.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 69,
+            "artist": "Jimmy Smith",
+            "album": "Back at the Chicken Shack",
+            "year": 2007,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/back-at-the-chicken-shack\/724622238",
+            "appleMusicID": "724622238",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/87\/1a\/5d\/871a5d85-9a7c-5c57-75bd-7c6dc0554aea\/00077774640251.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 70,
+            "artist": "Dinah Washington",
+            "album": "First Issue: The Dinah Washington Story",
+            "year": 1993,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-dinah-washington-on-mercury-vol-5-1956-1958\/1434896141",
+            "appleMusicID": "1434896141",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/a5\/0f\/97\/a50f9717-e5d7-6f20-7b06-db493fe0e479\/06UMGIM08486.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 71,
+            "artist": "John Coltrane",
+            "album": "My Favorite Things",
+            "year": 1960,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/my-favorite-things-expanded-edition\/962199873",
+            "appleMusicID": "962199873",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music3\/v4\/d1\/93\/80\/d1938039-e9ad-4200-a926-4b0b94e8f01f\/603497893751.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 72,
+            "artist": "John Coltrane",
+            "album": "The Complete 1961 Village Vanguard Recordings",
+            "year": 1997,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-1961-village-vanguard-recordings\/1434914363",
+            "appleMusicID": "1434914363",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/80\/e8\/1e\/80e81e2a-0b81-23ca-6a88-4f4ef73f6233\/06UMGIM07320.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 73,
+            "artist": "John Coltrane",
+            "album": "A Love Supreme",
+            "year": 1964,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/a-love-supreme\/1440713018",
+            "appleMusicID": "1440713018",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/e5\/24\/aa\/e524aacd-467b-66f3-8931-0fcd6750a4b9\/08UMGIM07914.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 74,
+            "artist": "John Coltrane",
+            "album": "Ascension",
+            "year": 1965,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/ascension\/1443121026",
+            "appleMusicID": "1443121026",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/49\/39\/f6\/4939f68e-00a5-49f4-9642-57020b789e19\/00602547491763.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 75,
+            "artist": "Eric Dolphy",
+            "album": "Out There",
+            "year": 1960,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/out-there-full-album-plus-bonus-tracks-1960\/845478379",
+            "appleMusicID": "845478379",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/21\/3e\/45\/213e4549-a655-ee7b-7bac-dae31fea204d\/cover.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 76,
+            "artist": "Eric Dolphy",
+            "album": "Out to Lunch!",
+            "year": 1964,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/out-to-lunch\/1455686798",
+            "appleMusicID": "1455686798",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/d5\/f1\/41\/d5f1417f-9c45-d013-392f-aa6c7c4b494c\/13UABIM03210.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 77,
+            "artist": "Bill Evans",
+            "album": "The Complete Village Vanguard Recordings, 1961",
+            "year": 2005,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-village-vanguard-recordings-1961-vol-2\/585841108",
+            "appleMusicID": "585841108",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/5e\/81\/e5\/5e81e573-7b09-14e6-45a5-31a7082112ad\/886788840966.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 78,
+            "artist": "Jackie McLean",
+            "album": "A Fickle Sonance",
+            "year": 1961,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/a-fickle-sonance-the-rudy-van-gelder-edition-remastered\/723977898",
+            "appleMusicID": "723977898",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music4\/v4\/7e\/82\/8b\/7e828b13-fdbd-3dc8-9116-11c1ab570fea\/00724352454457.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 79,
+            "artist": "Stan Getz and Jo\u00e3o Gilberto",
+            "album": "Getz\/Gilberto",
+            "year": 1963,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/getz-gilberto\/1422655717",
+            "appleMusicID": "1422655717",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/54\/04\/b8\/5404b8fd-3dbf-9fe1-0513-4611c4dec84e\/06UMGIM14182.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 80,
+            "artist": "Dexter Gordon",
+            "album": "Our Man in Paris",
+            "year": 1963,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/our-man-in-paris-feat-bud-powell-pierre-michelot-kenny\/1442835524",
+            "appleMusicID": "1442835524",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/ee\/a9\/dc\/eea9dcaf-1eb9-295e-9cb6-607222467fce\/00602537446391.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 81,
+            "artist": "Andrew Hill",
+            "album": "Smokestack",
+            "year": 1963,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/smoke-stack-the-rudy-van-gelder-edition-remastered\/724456550",
+            "appleMusicID": "724456550",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/0c\/37\/b8\/0c37b83a-32aa-860d-41b1-5cf5ce6fc5c5\/00094633777750.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 82,
+            "artist": "Lee Morgan",
+            "album": "The Sidewinder",
+            "year": 1963,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-sidewinder-the-rudy-van-gelder-edition-remastered\/724729142",
+            "appleMusicID": "724729142",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/be\/0b\/f4\/be0bf4c3-b69c-370b-2ade-d12a5a10ce77\/00724349533257.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 83,
+            "artist": "Albert Ayler",
+            "album": "Spiritual Unity",
+            "year": 1964,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/spiritual-unity-50th-anniversary-expanded-edition\/1234022242",
+            "appleMusicID": "1234022242",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music127\/v4\/35\/d0\/fa\/35d0fa7f-f22d-3c77-8e1f-380e3f64e36f\/0825481010023_1448.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 84,
+            "artist": "Archie Shepp",
+            "album": "Four for Trane",
+            "year": 1964,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/four-for-trane\/1444209278",
+            "appleMusicID": "1444209278",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/d0\/05\/ad\/d005ad09-806e-8674-ebc4-e7cb3cd5dd8a\/00011105021821.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 85,
+            "artist": "Horace Silver",
+            "album": "Song for My Father",
+            "year": 1964,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/song-for-my-father\/1471085186",
+            "appleMusicID": "1471085186",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/7f\/d0\/cb\/7fd0cbcc-3e89-4010-5cac-e91f1bb42909\/19UMGIM60341.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 86,
+            "artist": "Wes Montgomery",
+            "album": "Smokin\u2019 at the Half Note",
+            "year": 2005,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/smokin-at-the-half-note-expanded-edition\/1510031519",
+            "appleMusicID": "1510031519",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/2e\/12\/25\/2e12258d-5d05-b759-4a8d-b333c290d716\/20UMGIM30156.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 87,
+            "artist": "Cecil Taylor",
+            "album": "Conquistador!",
+            "year": 1966,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/conquistador-the-rudy-van-gelder-edition-remastered\/716542511",
+            "appleMusicID": "716542511",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/v4\/c4\/ee\/e2\/c4eee23e-1ebd-e725-e45e-6e49d65d64ff\/00724359084053.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 88,
+            "artist": "Betty Carter",
+            "album": "Betty Carter\u2019s Finest Hour",
+            "year": 2003,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/betty-carters-finest-hour\/1443261273",
+            "appleMusicID": "1443261273",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music118\/v4\/b7\/9d\/92\/b79d92b5-aba0-193e-10a8-8788f5d9a08b\/00731458977827.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 89,
+            "artist": "Frank Sinatra",
+            "album": "Sinatra at the Sands with Count Basie & the Orchestra",
+            "year": 1966,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/sinatra-at-the-sands\/1440842924",
+            "appleMusicID": "1440842924",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/e7\/a1\/ba\/e7a1badd-5b5b-b3a4-55f4-7f4aab859c49\/00602547829580.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 90,
+            "artist": "Frank Sinatra",
+            "album": "The Capitol Years",
+            "year": 1990,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-complete-capitol-singles-collection\/749752194",
+            "appleMusicID": "749752194",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music122\/v4\/a5\/46\/30\/a5463066-76a9-451b-947f-90b2140f0c90\/13UMGIM87228.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 91,
+            "artist": "Nina Simone",
+            "album": "Sugar in My Bowl: The Very Best of Nina Simone, 1967-1972",
+            "year": 1998,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/legendary-recordings-nina-simone\/1677184375",
+            "appleMusicID": "1677184375",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/e3\/a6\/5e\/e3a65eb2-5314-c3a3-8713-be7e0b2b6918\/23UMGIM27792.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 92,
+            "artist": "Pharoah Sanders",
+            "album": "Karma",
+            "year": 1969,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/karma\/1443785100",
+            "appleMusicID": "1443785100",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/01\/36\/a6\/0136a666-36d2-caf1-efb1-da77a646d104\/06UMGIM03764.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 93,
+            "artist": "Chick Corea",
+            "album": "Return to Forever",
+            "year": 1972,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/return-to-forever\/1445876621",
+            "appleMusicID": "1445876621",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/32\/f7\/2e\/32f72eab-d932-8ff0-e81b-d3c46e513976\/00602537765348.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 94,
+            "artist": "Keith Jarrett",
+            "album": "The K\u00f6ln Concert, 1975",
+            "year": 1999,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/the-k\u00f6ln-concert-live\/1440840566",
+            "appleMusicID": "1440840566",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/88\/a5\/ac\/88a5ac07-7eac-6e07-a970-8073f48c0ad6\/00602547299819.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 95,
+            "artist": "World Saxophone Quartet",
+            "album": "World Saxophone Quartet Plays Duke Ellington",
+            "year": 1986,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/plays-duke-ellington\/175378134",
+            "appleMusicID": "175378134",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/20\/a9\/dc\/mzi.dpbilhaq.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 96,
+            "artist": "Charlie Haden and Hank Jones",
+            "album": "Steal Away",
+            "year": 1995,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/steal-away\/1443143318",
+            "appleMusicID": "1443143318",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/b7\/eb\/95\/b7eb9543-3a64-ec5a-f438-62cf022c5524\/00731452724922.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 97,
+            "artist": "Joshua Redman Quartet",
+            "album": "Spirit of the Moment: Live at the Village Vanguard",
+            "year": 1995,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/spirit-of-the-moment-live-at-the-village-vanguard\/358573912",
+            "appleMusicID": "358573912",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/6b\/5a\/50\/mzi.mdqzznyx.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 98,
+            "artist": "Cassandra Wilson",
+            "album": "Traveling Miles",
+            "year": 1999,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/traveling-miles\/1443126397",
+            "appleMusicID": "1443126397",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/83\/c1\/45\/83c14599-ed32-30b0-1c80-a600b84f9734\/00602537640942.rgb.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 99,
+            "artist": "Wynton Marsalis Septet",
+            "album": "Live at the Village Vanguard",
+            "year": 1999,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/live-at-the-village-vanguard\/191011602",
+            "appleMusicID": "191011602",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/80\/44\/9d\/80449dca-e422-41e9-a0b3-4fd0df015f08\/074646987629.jpg\/600x600bb.jpg"
+        },
+        {
+            "rank": 100,
+            "artist": "The Bill Charlap Trio",
+            "album": "Live at the Village Vanguard",
+            "year": 2007,
+            "appleMusicURL": "https:\/\/music.apple.com\/album\/live-at-the-village-vanguard\/716540646",
+            "appleMusicID": "716540646",
+            "imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/da\/da\/08\/dada08e2-e94c-8f9c-2e93-a192c36d41fe\/00724359704456.jpg\/600x600bb.jpg"
+        }
+    ]
+}

@@ -1,5 +1,18 @@
 - name: Rolling Stone 500
   description: >-
     The 500 Greatest Albums of All Time is a list of the best rock and pop albums from the 1950s to the 2000s, as decided by an international panel of music critics and industry experts. It was originally published in 2003 and updated in 2012. The list is presented in the book Rolling Stone's 500 Greatest Albums of All Time and an updated version was published in 2020.
+  article_url: https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/
   url: https://longplay.rocks/data/collections/RS500.json
+  count: 500
+  date: 2023-12-31
+- name: "Billboard: Album Covers"
+  article_url: https://www.billboard.com/photos/best-album-covers-of-all-time-6715351/
+  url: https://longplay.rocks/data/collections/BB100C.json
+  count: 100
+  date: 2023-08-07
+- name: "The New Yorker: Essential Jazz"
+  article_url: https://www.newyorker.com/magazine/2008/05/19/100-essential-jazz-albums
+  url: https://longplay.rocks/data/collections/NY100J.json
+  count: 100
+  date: 2008-05-19
   
