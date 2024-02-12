@@ -10,7 +10,7 @@ permalink: /presskit/
 
 _App Store URL_: [https://apps.apple.com/us/app/longplay/id1495152002](https://apps.apple.com/us/app/longplay/id1495152002)
 
-_Pricing_: One-off purchase of USD 6 / GBP 6 / EUR 7 / AUD 9. Universal purchase for iOS and visionOS.
+_Pricing_: One-off purchase of USD 9.99 / GBP 9.99 / EUR 9.99 / AUD 14.99. Universal purchase for iOS and visionOS.
 
 _Developer_: [Adrian Schönig](https://adrian.schoenig.me)
 
