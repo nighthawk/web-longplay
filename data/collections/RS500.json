@@ -1,5 +1,5 @@
 {
-    "name": "Rolling Stone Top 500",
+    "name": "Rolling Stone: Greatest Albums",
     "article_url": "https:\/\/www.rollingstone.com\/music\/music-lists\/best-albums-of-all-time-1062063\/",
     "albums": [
         {
@@ -486,7 +486,7 @@
             "year": 1991,
             "appleMusicURL": null,
             "appleMusicID": null,
-            "imageURL": null
+            "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-054-James-Brown-Star-Time.jpg"
         },
         {
             "rank": 55,
@@ -702,7 +702,7 @@
             "year": 1976,
             "appleMusicURL": null,
             "appleMusicID": null,
-            "imageURL": null
+            "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-078-Elvis-Presley.-The-Sun-Sessions.jpg"
         },
         {
             "rank": 79,
@@ -1773,7 +1773,7 @@
             "year": 1964,
             "appleMusicURL": null,
             "appleMusicID": null,
-            "imageURL": null
+            "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-197-The-Beatles-Meet-The-Beatles.jpg"
         },
         {
             "rank": 198,
@@ -2925,7 +2925,7 @@
             "year": 1993,
             "appleMusicURL": null,
             "appleMusicID": null,
-            "imageURL": null
+            "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-325-Jerry-Lee-Lewis-All-Killer-No-Filler.jpg"
         },
         {
             "rank": 326,
@@ -3339,7 +3339,7 @@
             "year": 1973,
             "appleMusicURL": null,
             "appleMusicID": null,
-            "imageURL": null
+            "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-371-The-Temptations-Anthology.jpg"
         },
         {
             "rank": 372,
@@ -4347,7 +4347,7 @@
             "year": 2001,
             "appleMusicURL": null,
             "appleMusicID": null,
-            "imageURL": null
+            "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-483-muddy-waters-the-anthology.jpg"
         },
         {
             "rank": 484,
@@ -4401,7 +4401,7 @@
             "year": 1991,
             "appleMusicURL": null,
             "appleMusicID": null,
-            "imageURL": null
+            "imageURL": "https:\/\/www.rollingstone.com\/wp-content\/uploads\/2020\/09\/R1344-489-Phil-Spector-Various-Artists-Back-to-Mono.jpg"
         },
         {
             "rank": 490,
