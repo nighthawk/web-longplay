@@ -1,0 +1,456 @@
+{
+	"name": "Rolling Stone: Concept Albums",
+	"article_url": "https:\/\/www.rollingstone.com\/music\/music-lists\/best-concept-albums-1234604040",
+	"albums": [
+		{
+			"rank": 1,
+			"artist": "Kendrick Lamar",
+			"album": "good kid, m.A.A.d city",
+			"year": 2012,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/good-kid-m-a-a-d-city-deluxe\/1440873524",
+			"appleMusicID": "1440873524",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/ba\/c3\/c5\/bac3c531-dc7e-d0da-d785-fe9f17219950\/12UMGIM52990.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 2,
+			"artist": "Green Day",
+			"album": "American Idiot",
+			"year": 2004,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/american-idiot-deluxe-edition\/207192731",
+			"appleMusicID": "207192731",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/9e\/17\/c2\/mzi.ofggkufy.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 3,
+			"artist": "Pink Floyd",
+			"album": "The Wall",
+			"year": 1979,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/the-wall\/704273346",
+			"appleMusicID": "704273346",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Features124\/v4\/aa\/88\/2c\/aa882ccd-d153-9901-8ee1-c246e5b704b3\/dj.esjczuop.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 4,
+			"artist": "Raekwon",
+			"album": "Only Built 4 Cuban Linx \u2026",
+			"year": 1995,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/only-built-4-cuban-linx\/258634938",
+			"appleMusicID": "258634938",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/e1\/b1\/de\/e1b1de50-cca7-28d1-9e40-00c2251ead3d\/078636666327.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 5,
+			"artist": "The Who",
+			"album": "Tommy",
+			"year": 1969,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/tommy\/1461210985",
+			"appleMusicID": "1461210985",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/f3\/22\/7f\/f3227fd3-758e-2728-7db2-25b29373c8ae\/18UMGIM35635.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 6,
+			"artist": "Liz Phair",
+			"album": "Exile in Guyville",
+			"year": 1993,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/exile-in-guyville-2018-remaster\/1589236833",
+			"appleMusicID": "1589236833",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/f0\/96\/e6\/f096e697-a41a-2ec3-e48e-754b4f85aada\/744861111450.png\/600x600bb.jpg"
+		},
+		{
+			"rank": 7,
+			"artist": "Rush",
+			"album": "2112",
+			"year": 1976,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/2112-remastered\/1445876680",
+			"appleMusicID": "1445876680",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/a4\/44\/e5\/a444e517-39be-02b3-32c9-c45d6b1bd3e9\/00602527893372.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 8,
+			"artist": "My Chemical Romance",
+			"album": "The Black Parade",
+			"year": 2006,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/the-black-parade\/1156310650",
+			"appleMusicID": "1156310650",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/56\/99\/8a\/56998a1c-efe7-fdf0-2b1d-e2da88d8df52\/093624917724.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 9,
+			"artist": "Frank Sinatra",
+			"album": "In the Wee Small Hours",
+			"year": 1955,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/in-the-wee-small-hours\/1440815019",
+			"appleMusicID": "1440815019",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music122\/v4\/97\/a7\/42\/97a7424f-8161-052f-ce3c-93730c2d30de\/14UMGIM32540.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 10,
+			"artist": "Rosal\u00eda",
+			"album": "El Mal Querer",
+			"year": 2018,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/el-mal-querer\/1436309944",
+			"appleMusicID": "1436309944",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/2c\/55\/e1\/2c55e13f-15d8-1c7c-1826-c5fa55deaa8f\/886447217139.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 11,
+			"artist": "The Beatles",
+			"album": "Sgt. Pepper's Lonely Hearts Club Band",
+			"year": 1967,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/sgt-peppers-lonely-hearts-club-band-remix\/1573250333",
+			"appleMusicID": "1573250333",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/64\/85\/d2\/6485d219-91ac-5481-2668-7eab1320436d\/21UMGIM57007.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 12,
+			"artist": "Janelle Mon\u00e1e",
+			"album": "The ArchAndroid",
+			"year": 2010,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/the-archandroid-deluxe-version\/382079530",
+			"appleMusicID": "382079530",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/14\/b4\/c3\/mzi.riqvytaj.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 13,
+			"artist": "David Bowie",
+			"album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
+			"year": 1972,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/the-rise-and-fall-of-ziggy-stardust-and-the\/1039796877",
+			"appleMusicID": "1039796877",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/5f\/fa\/56\/5ffa56c2-ea1f-7a17-6bad-192ff9b6476d\/825646124206.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 14,
+			"artist": "Radiohead",
+			"album": "Kid A",
+			"year": 2000,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/kid-a\/1097862870",
+			"appleMusicID": "1097862870",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music122\/v4\/bd\/8e\/13\/bd8e1358-b367-a689-cb84-cebd0b067dc4\/634904078263.png\/600x600bb.jpg"
+		},
+		{
+			"rank": 15,
+			"artist": "Beyonc\u00e9",
+			"album": "Lemonade",
+			"year": 2016,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/lemonade\/1460430561",
+			"appleMusicID": "1460430561",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/db\/25\/a1\/db25a1c0-8a4a-3b4d-226d-7c7704dc92da\/886447680711.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 16,
+			"artist": "Sly and the Family Stone",
+			"album": "There\u2019s a Riot Goin\u2019 On",
+			"year": 1971,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/theres-a-riot-goin-on-expanded-edition\/216546634",
+			"appleMusicID": "216546634",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/91\/01\/9f\/91019f68-fbc9-5620-d49a-88043d75371e\/828767591124.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 17,
+			"artist": "Jackson Browne",
+			"album": "Running On Empty",
+			"year": 1977,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/running-on-empty-remastered\/1466749581",
+			"appleMusicID": "1466749581",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/95\/f7\/f3\/95f7f3a3-d793-fb71-572d-4dbd686e5252\/603497851195.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 18,
+			"artist": "The Who",
+			"album": "Quadrophenia",
+			"year": 1973,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/quadrophenia-2013-remaster\/1440824353",
+			"appleMusicID": "1440824353",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/cc\/86\/10\/cc861044-0537-0de4-4389-dceec0c13b96\/06UMGIM44799.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 19,
+			"artist": "Marvin Gaye",
+			"album": "What's Going On",
+			"year": 1971,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/whats-going-on\/1538081586",
+			"appleMusicID": "1538081586",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/76\/36\/2d\/76362d74-cb7a-8ef9-104e-cde1d858e9a9\/20UMGIM95279.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 20,
+			"artist": "Janet Jackson",
+			"album": "Control",
+			"year": 1986,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/control\/1440831636",
+			"appleMusicID": "1440831636",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/ed\/b0\/20\/edb02000-b77f-22f4-6b7f-c46f62d4517c\/00602547592361.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 21,
+			"artist": "Brian Wilson",
+			"album": "Smile",
+			"year": 2004,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/smile\/29164695",
+			"appleMusicID": "29164695",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music\/y2004\/m11\/d09\/h00\/s06.ceiowlmw.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 22,
+			"artist": "Donna Summer",
+			"album": "Once Upon a Time...",
+			"year": 1977,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/once-upon-a-time\/1440861081",
+			"appleMusicID": "1440861081",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/64\/a1\/fe\/64a1fe5f-762f-e3e5-88c6-146ffb49b3d9\/06UMGIM01762.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 23,
+			"artist": "Genesis",
+			"album": "The Lamb Lies Down on Broadway",
+			"year": 1974,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/the-lamb-lies-down-on-broadway-2007-stereo-mix\/358933158",
+			"appleMusicID": "358933158",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/44\/1d\/e7\/441de7e6-4e8d-9739-0a94-dc6013263620\/mzi.vkykexny.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 24,
+			"artist": "Randy Newman",
+			"album": "Good Old Boys",
+			"year": 1974,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/good-old-boys-deluxe\/750173801",
+			"appleMusicID": "750173801",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/99\/92\/bc\/9992bca7-ffe9-ec48-e30a-6a2e562ce422\/081227383923.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 25,
+			"artist": "BTS",
+			"album": "Map of the Soul: 7",
+			"year": 2020,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/map-of-the-soul-7\/1599362484",
+			"appleMusicID": "1599362484",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/bd\/68\/9b\/bd689bf2-ef25-4973-7ecd-7eb4965019c5\/195081034713_Cover.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 26,
+			"artist": "Willie Nelson",
+			"album": "Red Headed Stranger",
+			"year": 1975,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/red-headed-stranger\/404365971",
+			"appleMusicID": "404365971",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music123\/v4\/88\/d6\/67\/88d6676e-67ce-f907-d4fe-eae50f805f63\/074643348225.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 27,
+			"artist": "H\u00fcsker D\u00fc",
+			"album": "Zen Arcade",
+			"year": 1984,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/zen-arcade\/515427828",
+			"appleMusicID": "515427828",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/a4\/6e\/e2\/a46ee2c0-5082-5ff9-31bf-3aba75ea7e29\/dj.ewnapbia.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 28,
+			"artist": "The Kinks",
+			"album": "The Kinks Are the Village Green Preservation Society",
+			"year": 1968,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/the-kinks-are-the-village-green-preservation-society\/1422691058",
+			"appleMusicID": "1422691058",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/3e\/a3\/f4\/3ea3f4f0-2d52-6c45-75ae-880055383a48\/4050538402223.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 29,
+			"artist": "Jazmine Sullivan",
+			"album": "Heaux Tales",
+			"year": 2021,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/heaux-tales\/1549719545",
+			"appleMusicID": "1549719545",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/e6\/1e\/43\/e61e43e4-a8c9-2ddd-04f8-89df5515eadd\/886448974314.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 30,
+			"artist": "Marvin Gaye",
+			"album": "Here, My Dear",
+			"year": 1978,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/here-my-dear\/1440850217",
+			"appleMusicID": "1440850217",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/bc\/ae\/e3\/bcaee340-68a6-2eba-16c0-be55f78c1ba0\/00602547135636.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 31,
+			"artist": "Nick Cave and the Bad Seeds",
+			"album": "Ghosteen",
+			"year": 2019,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/ghosteen\/1479214340",
+			"appleMusicID": "1479214340",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/13\/54\/56\/135456fb-4061-84ad-f75a-90ec8b0bc612\/5056167114802_1.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 32,
+			"artist": "Millie Jackson",
+			"album": "Caught Up",
+			"year": 1974,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/caught-up\/1621385119",
+			"appleMusicID": "1621385119",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/03\/99\/d4\/0399d404-fc54-089c-6ba5-f6858d83c2f1\/29667806787.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 33,
+			"artist": "Parliament",
+			"album": "Funkentelechy vs. the Placebo Syndrome",
+			"year": 1977,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/funkentelechy-vs-the-placebo-syndrome\/1434913911",
+			"appleMusicID": "1434913911",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/15\/68\/31\/15683110-5d60-1a2a-e196-18be48cf5c30\/00602567825920.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 34,
+			"artist": "Iron Maiden",
+			"album": "Seventh Son of a Seventh Son",
+			"year": 1988,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/seventh-son-of-a-seventh-son\/979945054",
+			"appleMusicID": "979945054",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/24\/cf\/d7\/24cfd71d-d45a-ded4-85f7-8bb9ec5e4489\/825646129164.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 35,
+			"artist": "The Magnetic Fields",
+			"album": "69 Love Songs",
+			"year": 1999,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/69-love-songs\/15224879",
+			"appleMusicID": "15224879",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/fb\/9a\/9a\/fb9a9ac4-516b-1242-0f59-55dbb39f60c5\/169_MagFields_69LS_2500px.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 36,
+			"artist": "Raphael Saadiq",
+			"album": "Jimmy Lee",
+			"year": 2019,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/jimmy-lee\/1465332884",
+			"appleMusicID": "1465332884",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/ba\/c0\/bc\/bac0bc62-b4d6-4f68-a7de-23a26a14ed04\/886447713822.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 37,
+			"artist": "Alice Cooper",
+			"album": "Welcome To My Nightmare",
+			"year": 1975,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/welcome-to-my-nightmare\/355055007",
+			"appleMusicID": "355055007",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/c7\/b9\/d1\/c7b9d142-85db-6bae-97fa-471c5c8da2c6\/075678154263.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 38,
+			"artist": "The Mountain Goats",
+			"album": "Tallahassee",
+			"year": 2002,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/tallahassee\/310998170",
+			"appleMusicID": "310998170",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/cc\/e1\/75\/cce175c1-b3a0-2cab-44c5-fd415d5fa7de\/652637221589.png\/600x600bb.jpg"
+		},
+		{
+			"rank": 39,
+			"artist": "Toni Braxton & Babyface",
+			"album": "Love, Marriage & Divorce",
+			"year": 2014,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/love-marriage-divorce\/1440871049",
+			"appleMusicID": "1440871049",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/12\/dd\/bd\/12ddbd4e-c376-1ad5-861e-687286534338\/13UAEIM26467.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 40,
+			"artist": "The Hold Steady",
+			"album": "Separation Sunday",
+			"year": 2005,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/separation-sunday\/1675991625",
+			"appleMusicID": "1675991625",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/e5\/4f\/dc\/e54fdc39-8acb-f488-fec8-4393e343ca54\/cover.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 41,
+			"artist": "Elton John",
+			"album": "Captain Fantastic and the Brown Dirt Cowboy",
+			"year": 1975,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/captain-fantastic-and-the-brown-dirt-cowboy\/1440810893",
+			"appleMusicID": "1440810893",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music116\/v4\/83\/dc\/2a\/83dc2ad2-61eb-feb2-80df-e77206cc3dbc\/06UMGIM53454.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 42,
+			"artist": "Halsey",
+			"album": "If I Can\u2019t Have Love, I Want Power",
+			"year": 2021,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/if-i-cant-have-love-i-want-power-deluxe\/1642385548",
+			"appleMusicID": "1642385548",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music112\/v4\/1c\/d5\/40\/1cd5401d-1dd4-3dbc-2750-f618672bb1f2\/21UMGIM35852.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 43,
+			"artist": "J Balvin",
+			"album": "Colores",
+			"year": 2020,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/colores\/1500490683",
+			"appleMusicID": "1500490683",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music125\/v4\/ae\/b3\/66\/aeb36667-f9b2-c455-c3fc-a53bbd5ec4c1\/20UMGIM10542.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 44,
+			"artist": "Drive-By Truckers",
+			"album": "Southern Rock Opera",
+			"year": 2001,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/southern-rock-opera\/1452800570",
+			"appleMusicID": "1452800570",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music114\/v4\/25\/89\/33\/2589338d-242d-94aa-232c-88e189d0c23d\/00008817030821.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 45,
+			"artist": "Queensr\u00ffche",
+			"album": "Operation: Mindcrime",
+			"year": 1988,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/operation-mindcrime-deluxe-edition\/715912112",
+			"appleMusicID": "715912112",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/77\/da\/93\/77da938b-dd52-0ca6-8bbe-5e831394c865\/00094636012858.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 46,
+			"artist": "Marina and the Diamonds",
+			"album": "Electra Heart",
+			"year": 2012,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/electra-heart-deluxe-video-version\/612476580",
+			"appleMusicID": "612476580",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music115\/v4\/a3\/d0\/87\/a3d08708-9087-e238-9fa3-e09caa196f54\/5053105215522.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 47,
+			"artist": "The Avalanches",
+			"album": "Since I Left You",
+			"year": 2001,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/since-i-left-you-20th-anniversary-deluxe-edition\/1559888850",
+			"appleMusicID": "1559888850",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music126\/v4\/1b\/1c\/b1\/1b1cb10e-0292-1d9c-1977-719aae824f29\/191404116456.png\/600x600bb.jpg"
+		},
+		{
+			"rank": 48,
+			"artist": "XTC",
+			"album": "Skylarking",
+			"year": 1986,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/skylarking-remastered\/1440889477",
+			"appleMusicID": "1440889477",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music128\/v4\/68\/60\/36\/686036d4-baf9-ac17-e70a-54589a5ab24b\/00602557412673.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 49,
+			"artist": "The Roots",
+			"album": "Undun",
+			"year": 2011,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/undun\/1440805652",
+			"appleMusicID": "1440805652",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music113\/v4\/51\/bd\/bd\/51bdbda4-8f8a-ed08-d402-6395fcb2bac6\/11UMGIM38405.rgb.jpg\/600x600bb.jpg"
+		},
+		{
+			"rank": 50,
+			"artist": "Styx",
+			"album": "Kilroy Was Here",
+			"year": 1983,
+			"appleMusicURL": "https:\/\/music.apple.com\/album\/kilroy-was-here\/1440714769",
+			"appleMusicID": "1440714769",
+			"imageURL": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Music124\/v4\/da\/75\/bd\/da75bd7e-c8cc-d98a-c895-f35a58b53857\/06UMGIM01285.rgb.jpg\/600x600bb.jpg"
+		}
+	]
+}
