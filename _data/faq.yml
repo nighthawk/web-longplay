@@ -48,6 +48,9 @@
   - question: Can I queue up multiple albums?
     answer: |
       You sure can. Long tap on an album and select "Play Next" or "Play Later". You can also queue up multiple albums by long tapping on an album in the albums list and selecting "Play Next" or "Play Later".
+  - question: How do I populate release year information?
+    answer: |
+      Release year information is not yet automatically populated in Longplay on iOS. There is a Shortcut to populate it, which can be found in the in-app settings under Siri & Shortcuts > "Populate Release Years". You can set/overwrite the year manually via long-tap on Album > Get Info. And it also syncs from the Mac app (currently in [Early Access](https://adrianschoenig.gumroad.com/l/longplay)).
 
 - group: General
   questions:
