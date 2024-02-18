@@ -78,6 +78,9 @@
   - question: I am tapping albums but all I see is a spinning indicator and playback doesn't start.
     answer: |
       This can happen if you removed the Music app from your device. Go to the App Store and make sure it's installed. Then playback should work from Longplay.
+  - question: I am tapping albums but this occasionally doesn't trigger playback.
+    answer: |
+      There is a known issue with the underlying framework which can cause this intermittently. This has been reported to Apple (FB13300366) and might get fixed in a future iOS update. Briefly switching back to another album and retrying the previous album usually fixes the issue; or if it's more persistent try force quitting the app.
   - question: I am tapping albums but nothing happens.
     answer: |
       This can happen if you upgraded your device and restored from a backup. Try to delete the Longplay app and reinstall it from the App Store. Then it should work again.
