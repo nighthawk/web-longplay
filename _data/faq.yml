@@ -72,6 +72,9 @@
   - question: Why are some albums not displayed?
     answer: |
       Longplay only displays albums for which you have (nearly) every song. This is determined by the relative percentage, absolute number of songs you have of that album, and total duration of the songs you have.
+  - question: The artwork on the album wall is very dark and has low contrast.
+    answer: |
+      By default, Longplay will fade out albums that you haven't downloaded to your device while you are not connected to WiFi. This behavious can be adjusted using the setting called "Fade Streaming". If you don't want to see this effect, you can turn set this to "Never".
   - question: Some of my album artwork is not showing up!
     answer: |
       This can happen if the Music app did not yet download your artwork. Open the Music app, go to Library and then Albums, the artwork might be missing at first but it's downloaded as soon as you scroll through the list. If you then switch back to Longplay they should start appearing.
