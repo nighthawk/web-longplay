@@ -6,6 +6,20 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.2.1, 10 Feb 2024
+
+🎶 Show me how to… 🎶 create some Shortcuts.
+
+New:
+- Added several example Shortcuts accessible through the in-app settings
+
+Changed:
+- Longplay will now include albums with one or two tracks if you have all the tracks and they exceed a minimum duration.
+
+Fixed:
+- Tweak reports from Last.fm scrobbling
+- Some minor style and wording tweaks
+
 ## 2.2, 6 Feb 2024
 
 🎶 I've been looking for… 🎶
