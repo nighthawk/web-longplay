@@ -6,17 +6,37 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.2.2, 20 Feb 2024
+
+🎶 I thought you'd always be… my zero… 🎶
+
+Fixed all currently known issues:
+
+- Fix highlight of current track in track list when shuffling tracks
+- Fix shuffled playback to start on random track, rather than always the first
+- Fix album inspector sometimes not appearing on iOS
+- Fix albums sometimes getting displayed twice on album wall
+- Fix landscape layout on Max and Plus sized iPhones
+- Improves reliability of Last.fm scrobbling
+- Improves text contrast of sort order colours on iOS
+- Style tweaks for the collection picker
+
+If you come across a bug, please let me know by [mail](mailto:words@longplay.app), on [Mastodon](https://indieapps.space/@longplay), or on the [feedback website](https://feedback.longplay.app).
+
 ## 2.2.1, 10 Feb 2024
 
 🎶 Show me how to… 🎶 create some Shortcuts.
 
 New:
+
 - Added several example Shortcuts accessible through the in-app settings
 
 Changed:
+
 - Longplay will now include albums with one or two tracks if you have all the tracks and they exceed a minimum duration.
 
 Fixed:
+
 - Tweak reports from Last.fm scrobbling
 - Some minor style and wording tweaks
 
@@ -25,6 +45,7 @@ Fixed:
 🎶 I've been looking for… 🎶
 
 New:
+
 - A search box to filter the albums view by artist or title
 - Many, *many* new Shortcuts actions. Create a pretty image of your recently listened albums. Search albums by an artist, sort them by release date, and add them to your queue. Get album metrics and display them in Charty. Find albums by a genre and show them as an ad-hoc collection in the app. Resume your last Longplay session when putting on your smart glasses. Get creative!
 - Album inspector to browse tracks of any album, see album stats, and set/overwrite release year and artist sorting
@@ -33,10 +54,12 @@ New:
 - Long-tapping an album will now also show release year, if known.
 
 Improved:
+
 - Refined the CarPlay experience
 - Sorting by "Stars" now considers the percentage of the album rated, and five stars tracks give an extra bonus
 
 Fixed:
+
 - Minor styling tweaks and fixes
 
 ## 2.1.6, 18 Dec 2023
