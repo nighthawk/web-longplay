@@ -20,9 +20,8 @@ layout: default
           {{ page.app.name }}
       </h1>
       <h2 class="app-price">
-          {% if page.app.sale %}<s>{% endif %}
-          {{ page.app.price }}
-          {% if page.app.sale %}</s> {{ page.app.sale }}{% endif %}
+          {% if page.app.sale %}<s>{% endif %}{{ page.app.price }}{% if page.app.sale %}</s> 
+          {{ page.app.sale }}{% endif %}
       </h2>
 
       <p>

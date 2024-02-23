@@ -15,7 +15,8 @@ seo:
 app:
   name: Longplay
   icon: /images/longplay/icon.png
-  price: US$5.99
+  price: US$9.99
+  sale: $5.99
   price_note: One-time purchase
   oneliner: |
     Rediscover, enjoy and organise your album collection.
