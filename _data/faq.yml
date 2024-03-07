@@ -57,6 +57,11 @@
   - question: What does Longplay store in iCloud?
     answer: |
       Longplay stores your collections, your hidden albums and playlists, your ratings, and your play counts in iCloud. It does not store any of your music.
+  - question: Why does the Music app not reflect what is being played in Longplay?
+    answer: |
+      Longplay uses its own music player to enable various features such as the infinite album shuffle, album queue, interactive widgets, CarPlay, and the in-app track list.
+
+      Regardless, Apple Music stays informed of any albums and tracks that you listened to in Longplay. This will be reflected in your play counts, last played dates, and recommendations. However, it will not be reflected in your "Recently Played" on Apple Music.
   - question: Does Longplay support Spotify?
     answer: |
       No, support for Spotify is not provided. Longplay is a passion project of mine, and I don't use Spotify myself currently. If you're interested in a Spotify version, please suggest or vote for it on the [feedback page](https://feedback.longplay.app/).
