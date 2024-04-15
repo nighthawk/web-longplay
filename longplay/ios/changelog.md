@@ -8,8 +8,6 @@ permalink: /changelog/
 
 ## 2.2.4, 15 April 2024
 
-🎶 I thought you'd always be… my zero… 🎶
-
 New:
 
 - Remembers playback position in previously played session when re-opening Longplay after a while
