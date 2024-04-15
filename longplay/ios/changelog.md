@@ -6,6 +6,24 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.2.4, 15 April 2024
+
+🎶 I thought you'd always be… my zero… 🎶
+
+New:
+
+- Remembers playback position in previously played session when re-opening Longplay after a while
+
+Fixed all currently known issues:
+
+- Addresses issue where the last played album might not re-start after re-opening the app
+- Under-the-hood improvements for stability and memory usage
+
+## 2.2.3, 27 Feb 2024
+
+- Adds several keyboard shortcuts
+- Update German translation
+
 ## 2.2.2, 20 Feb 2024
 
 🎶 I thought you'd always be… my zero… 🎶
