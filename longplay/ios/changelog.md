@@ -6,13 +6,18 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.2.5, 20 April 2024
+
+- Fixes scrobbling of first track in an album
+- Fixes styling of playlists, especially when they are sized smaller
+
 ## 2.2.4, 15 April 2024
 
 New:
 
 - Remembers playback position in previously played session when re-opening Longplay after a while
 
-Fixed all currently known issues:
+Fixed:
 
 - Addresses issue where the last played album might not re-start after re-opening the app
 - Under-the-hood improvements for stability and memory usage
