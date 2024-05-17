@@ -1,3 +1,8 @@
+- name: "Apple Music: 100 Best Albums"
+  article_url: https://100best.music.apple.com/
+  url: https://longplay.rocks/data/collections/AM100.json
+  count: 100
+  date: 2024-05-27
 - name: "Rolling Stone: Greatest Albums"
   description: >-
     The 500 Greatest Albums of All Time is a list of the best rock and pop albums from the 1950s to the 2000s, as decided by an international panel of music critics and industry experts. It was originally published in 2003 and updated in 2012. The list is presented in the book Rolling Stone's 500 Greatest Albums of All Time and an updated version was published in 2020.
