@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "CJD7325U6C.app.longplay.Longplay",
+                "paths": [ "/collections/*" ]
+            }
+        ]
+    }
+}

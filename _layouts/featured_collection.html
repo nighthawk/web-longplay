@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% assign json_url = site.url | append: "/data" | append: page.id | append: ".json" -%}
+
+<div class="microblog-post-alone">
+ <h1>{{ page.name }}</h1>
+
+ {{ content }}
+
+ <br/>
+ <p><a href="{{ page.article_url }}">→ Open website</a></p>
+ <p><a href="longplay://show-collection?url={{ json_url }}">→ Open in Longplay</a></p>
+ <p><a href="{{ json_url }}">→ Download JSON</a></p>
+ <br/>
+ 
+ <footer>
+   <small>Added <time datetime={{ page.date | date_to_xmlschema }}>{{ page.date | date: "%a, %d %b %Y" }}</time></small>
+ </footer>
+</div>

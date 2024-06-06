@@ -1,4 +1,13 @@
 ---
 layout: null
 ---
-{{ site.data.collections | jsonify }}
+[
+{% for collection in site.collections -%}
+{
+  "name": "{{collection.name}}",
+  "article_url": "{{collection.article_url}}",
+  "url": "{{collection.json_url}}",
+  "date": "{{collection.date  | date: "%Y-%m-%d"}}"
+}{% unless forloop.last %},{% endunless %}
+{% endfor -%}
+]

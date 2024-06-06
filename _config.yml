@@ -42,6 +42,9 @@ collections:
   microposts:
     output: true
     permalink: /micro/:year/:month/:name.html
+  collections:
+    output: true
+    sort_by: id
 
 defaults:
   - scope:
