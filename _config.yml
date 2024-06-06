@@ -35,6 +35,9 @@ permalink: pretty
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 locale: en_AU
 
+include:
+  - ".well-known"
+
 collections:
   posts:
     output: true
