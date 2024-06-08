@@ -6,7 +6,7 @@ layout: null
 {% assign json_url = site.url | append: "/data" | append: collection.id | append: ".json" -%}
 {
   "name": "{{collection.name}}",
-  "article_url": "{{collection.article_url}}",
+  "articleURL": "{{collection.article_url}}",
   "url": "{{json_url}}",
   "date": "{{collection.date  | date: "%Y-%m-%d"}}"
 }{% unless forloop.last %},{% endunless %}
