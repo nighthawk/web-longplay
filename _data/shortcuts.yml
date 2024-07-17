@@ -1,17 +1,5 @@
 - title: Featured
   shortcuts:
-  - title: Populate Release Years
-    url: https://www.icloud.com/shortcuts/1fe8d1aab5c84cc3ab43d07dbad2109d
-    description: >-
-      Populates release year information in Longplay by looking up albums in Apple Music.\n
-      \n
-      Use this to unlock the 'Release' sort order.\n
-      \n
-      If you get warning about too many items being shared, you can grant permissions for that
-      in the Settings app under Shortcuts > Advanced > 'Allow Sharing Large Amounts of Data'.
-    required:
-      iOS: "2.2"
-      visionOS: "2.2"
   - title: Smart Collection
     url: https://www.icloud.com/shortcuts/eb2e96ce3773423fa7229acef5b94524
     description: >-
@@ -60,6 +48,16 @@
   - title: Current Track Details
     url: https://www.icloud.com/shortcuts/0223ae4401ad4bfe9dca7c196ac357cb
     description: Gets the current track, then the details of the album, and shows them.
+    required:
+      iOS: "2.2"
+      visionOS: "2.2"
+  - title: Populate Release Years
+    url: https://www.icloud.com/shortcuts/1fe8d1aab5c84cc3ab43d07dbad2109d
+    description: >-
+      Populates release year information in Longplay by looking up albums in Apple Music.\n
+      \n
+      If you get warning about too many items being shared, you can grant permissions for that
+      in the Settings app under Shortcuts > Advanced > 'Allow Sharing Large Amounts of Data'.
     required:
       iOS: "2.2"
       visionOS: "2.2"
