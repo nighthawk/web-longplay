@@ -77,6 +77,8 @@ Fixed:
 
 ## 2.2, 6 Feb 2024
 
+_**See [Press Release](https://impresskit.net/press-release/7b94aba7-eb71-4c57-9a64-945538a770d9)**_
+
 🎶 I've been looking for… 🎶
 
 New:
