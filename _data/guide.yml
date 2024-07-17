@@ -52,6 +52,12 @@ intro:
     visionos: "2.2"
   revisions:
     - version:
+        ios: "2.2.6"
+        macos: "0.5.3"
+        visionos: "2.2.6"
+      description: >-
+        Sorting by 'Release' is now auto-populated with data from Apple Music.
+    - version:
         ios: "2.2"
         macos: "0.5"
       description: >-
@@ -85,12 +91,17 @@ intro:
     control your music.
   how_to:
     visionos: >-
-      Tap the immersive mode button in the bottom right of the album wall
+      Tap the Album Wall button in the bottom right of the album wall
       or the now playing screen.
   sf_symbol: square.grid.2x2
   font_awesome: fas fa-th-large
   introduced:
     visionos: "2.2"
+  revisions:
+    - version:
+        visionos: "2.2.6"
+      description: >-
+        Fully featured mini player in immersive mode and a revised control panel.
 
 basics:
 - title: Collections
@@ -224,21 +235,17 @@ advanced:
     Sort your library by release year to see your albums in chronological
     order, and to see an artists' albums in the order they were released when
     using the 'Orderliness' sort.\n
-  how_to:
-    ios: >-
-      The 'Release' sort order is only available when you have albums with a
-      release year set, which currently has to be done manually, through the Mac
-      companion app or by using the 'Populate Release Years' example Shortcut.
-    macos: >-
-      The albums' release years are populated automatically on the Mac, and you
-      customise them with the album inspector.
-    visionos: >-
-      The 'Release' sort order is only available when you have albums with a
-      release year set, which currently has to be done manually, through the Mac
-      companion app or by using the 'Populate Release Years' example Shortcut.    
   sf_symbol: calendar
   font_awesome: fas fa-calendar
   introduced:
     ios: "2.2"
     macos: "0.5"
     visionos: "2.2"
+  revisions:
+    - version:
+        ios: "2.2.6"
+        macos: "0.5.3"
+        visionos: "2.2.6"
+      description: >-
+        Release year information is now auto-populated with data from Apple Music. 
+        You can still use the Shortcut to do so manually though.

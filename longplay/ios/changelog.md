@@ -6,6 +6,20 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.2.6, 17 July 2024
+
+New:
+- Auto-populate release years (Apple Music only)
+- Show percentage listened
+- Show ratings at top level, if toggled on
+
+Fixes:
+- Fix release year not being used in Orderliness sort when sorting artists as in Music app (you'll need to do a manual album refresh once, by pulling to refresh)
+- Fix album shuffle not being very random when selecting Random sort order
+- Widgets that use the Random order will now (again) get a new set of albums every day
+- Performance improvements, in particular when triggering new random album
+- Style tweaks
+
 ## 2.2.5, 20 April 2024
 
 - Fixes scrobbling of first track in an album
