@@ -6,6 +6,12 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.2.7, 8 August 2024
+
+- Improves the welcome screen on iPad
+- Fixes "Show in Music" links (they broke in iOS 17.6 and iOS 18)
+- Fixes issue where some albums might not play after restoring your device
+
 ## 2.2.6, 17 July 2024
 
 New:

@@ -4,6 +4,11 @@ title: visionOS Changelog
 permalink: /visionos/changelog/
 ---
 
+## 2.2.7, 8 August 2024
+
+- Fixes "Show in Music" links
+- Fixes issue where some albums might not play after restoring your device
+
 ## 2.2.6, 17 July 2024
 
 A round of improvements for the immersive Album Wall:
