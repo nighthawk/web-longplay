@@ -14,7 +14,7 @@ _Pricing_: One-off purchase of USD 9.99 / GBP 9.99 / EUR 9.99 / AUD 14.99. Unive
 
 _Developer_: [Adrian Schönig](https://adrian.schoenig.me)
 
-_Requirements_: iOS or iPadOS 16.1, visionOS 1.0
+_Requirements_: iOS or iPadOS 17.0, visionOS 1.0
 
 _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://longplay.app](https://longplay.app) also exists but .rocks is preferred and .app redirects there)
 
@@ -28,6 +28,14 @@ _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://long
 
 ### Screenshots
 
+{% include image_inline.html width='705' url='/images/longplay/banner.jpg' %}
+
+#### iPhone
+
+{% include image_inline.html width='225' url='/images/longplay/v2dot1/iphone-1-widgets.jpeg' %}
+{% include image_inline.html width='450' url='/images/longplay/v2dot1/iphone-2-standby.jpeg' %}
+{% include image_inline.html width='225' url='/images/longplay/v2dot1/iphone-3.jpeg' %}
+
 {% include image_inline.html width='225' url='/images/longplay/v2/1-albums.png' %}
 {% include image_inline.html width='225' url='/images/longplay/v2/2-now-playing.png' %}
 {% include image_inline.html width='225' url='/images/longplay/v2/3-track-list.png' %}
@@ -36,7 +44,16 @@ _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://long
 {% include image_inline.html width='225' url='/images/longplay/v2/6-context.png' %}
 {% include image_inline.html width='225' url='/images/longplay/v2/7-dict.png' %}
 
+#### iPad
+
+{% include image_inline.html width='705' url='/images/longplay/v2dot1/ipad.jpeg' %}
 {% include image_inline.html width='705' url='/images/longplay/v2/ipad.png' %}
+
+#### visionOS
+
+{% include image_inline.html width='705' url='/images/longplay/v2dot2/visionos-1-albums.jpg' %}
+{% include image_inline.html width='705' url='/images/longplay/v2dot2/visionos-2-player.jpg' %}
+{% include image_inline.html width='705' url='/images/longplay/v2dot2/visionos-3-immersive.jpg' %}
 
 {% comment %}
 More screenshots, including iPad, and with frames in the [Download](/longplay/presskit.zip).
@@ -52,7 +69,7 @@ The app let's you explore your albums or playlists by various sort options — 
 
 You can organise your albums into collections, which stay in sync across your devices using iCloud. Say, for your favourites albums, live albums, kids' albums, albums you like to listening to while working, or albums for a road trip.
 
-Infinite Album Shuffle let's you listen to your albums non-stop.
+Infinite Album Shuffle lets you listen to your albums non-stop.
 
 It supports CarPlay, AirPlay, iCloud sync, Siri and Shortcuts.
 
@@ -60,7 +77,7 @@ It supports CarPlay, AirPlay, iCloud sync, Siri and Shortcuts.
 
 ### About the Developer
 
-As my main occupation, I'm the CTO of [SkedGo Pty Ltd](https://skedgo.com), a small-to-medium sized company building a multi-modal transport platform and front-end apps, including [TripGo](https://skedgo.com/tripgo).
+As my main occupation, I'm the CTO of [SkedGo Pty Ltd](https://skedgo.com), a small-to-medium sized company building an urban mobility platform and front-end apps, including [TripGo](https://skedgo.com/tripgo).
 
 Longplay is my first indie app. I like listening to entire music albums. The app therefore came out of my personal need for wanting quick access to just the complete albums in my music library - without all those albums where I've just added a single song or two. I built an initial version for myself in 2015, shipped Version 1.0 in August 2020. Version 2.0 shipped in August 2023.
 
@@ -68,5 +85,6 @@ Longplay is my first indie app. I like listening to entire music albums. The app
 
 ### Press Releases
 
+- [Longplay 2.2: Apple Vision Pro – and get creative with Shortcuts]({% link pr/ios-2.2.md %})
 - [Longplay 2.1: Interactive Widgets]({% link pr/ios-2.1.md %})
 - [Longplay 2.0]({% link pr/ios-2.0.md %})

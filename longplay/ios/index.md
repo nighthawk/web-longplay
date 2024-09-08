@@ -22,8 +22,8 @@ app:
   oneliner: |
     Rediscover, enjoy and organise your album collection.
   appstore_link: https://apps.apple.com/us/app/longplay/id1495152002
-  presskit_external_link: https://impresskit.net/longplay
-  # presskit_link: longplay/ios/presskit.md
+  # presskit_external_link: https://impresskit.net/longplay
+  presskit_link: longplay/ios/presskit.md
   changelog_link: longplay/ios/changelog.md
   privacy_link: longplay/ios/privacy.md
   screenshots: /images/longplay/four-2dot0.png

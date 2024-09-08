@@ -1,33 +1,30 @@
 ---
 layout: page
-title: "[Press Release] Longplay 2.2: Get immersed in visionOS, advanced features on iOS"
-date: 2023-09-11
+title: "[Press Release] Longplay 2.2: Apple Vision Pro – and get creative with Shortcuts"
+date: 2024-01-20
 ---
 
-Longplay 2.1 adds interactive widgets for iOS 17 with [fabulous animations](https://vimeo.com/863056534) that also work very well in StandBy, let's you appreciate your album wall in the app without any UI chrome, and adds new Shortcuts actions.
+With version 2.2, Longplay brings its album focus to Apple Vision Pro: the same features as on iOS and adding a rich **immersive experience** of your albums on a massive curved wall — which could be straight out of the Matrix.
 
-Updated **Album Wall** widget:
+On iOS, the 2.2 update greatly improves and extends the **Shortcuts** support with over two dozen new actions, opening up a variety of customisation and advanced use cases.
 
-- Shows a grid of albums, tapping one starts playing it, tapping it again will pause playback.
-- Playback status is indicated by the album resizing, just as in the app. Like an adorable mini Longplay.
-- This widget is now available in sizes small (9 albums), medium (18 albums), and large (36 albums).
+Standout features for **visionOS**:
+- View and pick albums from an **immersive space** where the app breaks beyond the window and the albums wrap around you. [See video](https://vimeo.com/904694210).
+- The "regular" app window has been **optimised for visionOS**, with ornaments and toggling between the album view and now playing mode in the same window.
 
-All new **Now Playing** widget:
+Some examples of what's possible with **Shortcuts**:
+- Create a pretty image of your recently listened albums, or share it as a weekly note, or add it to your diary.
+- Smart ad-hoc collections: Search albums by artist, genre, year, metrics; then view them in the app, and play or add them to a collection.
+- Tap your iPhone's Action Button to resume your last Longplay session if nothing is playing yet, or rate the current track if something is playing.
 
-- Show the currently playing album, or suggests a random one, if nothing is playing; with play/pause button.
-- Shuffle button to switch to a random album (disabled while album is playing; pause playback first)
-- Shows a spider chart of the album's metrics (recency, memory, length, negligence, stars, addiction) – tap it or the album artwork to toggle between the two.
-- Available in small and medium.
+Details and other improvements:
+- **Universal purchase** between iOS and visionOS
+- Search/filter albums
+- Sort albums by release year
+- An album inspector to view tracks, playback stats, and edit some details
 
-Other improvements in this update:
-
-- The "My Library" dropdown will fade away as you scroll through your albums, giving you a pristine chrome-free look of just your albums (can be disabled in the settings).
-- New Shortcuts actions.
-
-_This update will be available when iOS 17 launches._
+*This update will be available when Apple Vision Pro ships on 2nd February 2024.*
 
 ---
 
-Longplay is an app for music lovers with a sizeable Apple Music or iTunes library who like to listen to entire albums. With its has a unique, chrome-less user interface, it focuses on rediscovering, organising and simply enjoying your library of albums.
-
-The [recent 2.0 update](https://adrian.schoenig.me/blog/2023/08/31/longplay-2.0/) added a variety of new features, such as collections, an Infinite Album Shuffle mode, a in-app Now Playing view, CarPlay, and much more.
+Longplay is an app for music lovers with a sizeable Apple Music or iTunes library who like to listen to entire albums. With its unique, chrome-less user interface, it focuses on rediscovering, organising and simply enjoying your library of albums.
