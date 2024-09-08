@@ -6,17 +6,42 @@ redirect_from:
 permalink: /presskit/
 ---
 
+Longplay is an app for **music lovers with a sizable Apple Music or iTunes library** who like to listen to entire albums. 
+
+{% include image_inline.html width='705' url='/images/longplay/banner.jpg' %}
+
+Longplay is an app for music lovers with a sizable Apple Music or iTunes library who like to listen to entire albums. It is a music player that focuses on just the albums from which you have (nearly) added all the songs - making it quick to get to the music that means the most to you. This is in contrast to the rather cluttered "Albums" view in Apple's Music app that includes all the albums where you even just have a handful of songs.
+
+The app let's you explore your albums or playlists by various sort options — a unique one is _Negligence_ which combines how highly you've ranked an album, and when you last listened to it.
+
+You can organise your albums into collections, which stay in sync across your devices using iCloud. Say, for your favourites albums, live albums, kids' albums, albums you like to listening to while working, or albums for a road trip.
+
+Infinite Album Shuffle lets you listen to your albums non-stop.
+
+
 ### Key Details
 
 _App Store URL_: [https://apps.apple.com/us/app/longplay/id1495152002](https://apps.apple.com/us/app/longplay/id1495152002)
 
-_Pricing_: One-off purchase of USD 9.99 / GBP 9.99 / EUR 9.99 / AUD 14.99. Universal purchase for iOS and visionOS.
+_Pricing_: One-off purchase of USD 5.99 / GBP 5.99 / EUR 6.99 / AUD 9.99.. Universal purchase for iOS and visionOS.
 
 _Developer_: [Adrian Schönig](https://adrian.schoenig.me)
 
 _Requirements_: iOS or iPadOS 17.0, visionOS 1.0
 
 _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://longplay.app](https://longplay.app) also exists but .rocks is preferred and .app redirects there)
+
+## Apple Technologies
+
+* Apple Music
+* CarPlay
+* AirPlay
+* iCloud sync
+* Siri
+* Shortcuts
+* Interactive Widgets (iOS 17)
+* Control Center control (iOS 18)
+* Immersive space (visionOS)
 
 ---
 
@@ -28,7 +53,6 @@ _Marketing URL_: [https://longplay.rocks](https://longplay.rocks) ([https://long
 
 ### Screenshots
 
-{% include image_inline.html width='705' url='/images/longplay/banner.jpg' %}
 
 #### iPhone
 
@@ -61,25 +85,11 @@ More screenshots, including iPad, and with frames in the [Download](/longplay/pr
 
 ---
 
-### About the App
-
-Longplay is an app for music lovers with a sizable Apple Music or iTunes library who like to listen to entire albums. It is a music player that focuses on just the albums from which you have (nearly) added all the songs - making it quick to get to the music that means the most to you. This is in contrast to the rather cluttered "Albums" view in Apple's Music app that includes all the albums where you even just have a handful of songs.
-
-The app let's you explore your albums or playlists by various sort options — a unique one is _Negligence_ which combines how highly you've ranked an album, and when you last listened to it.
-
-You can organise your albums into collections, which stay in sync across your devices using iCloud. Say, for your favourites albums, live albums, kids' albums, albums you like to listening to while working, or albums for a road trip.
-
-Infinite Album Shuffle lets you listen to your albums non-stop.
-
-It supports CarPlay, AirPlay, iCloud sync, Siri and Shortcuts.
-
----
-
 ### About the Developer
 
-As my main occupation, I'm the CTO of [SkedGo Pty Ltd](https://skedgo.com), a small-to-medium sized company building an urban mobility platform and front-end apps, including [TripGo](https://skedgo.com/tripgo).
+My name is Adrian Schönig. I'm based in Sydney, Australia. As my main occupation, I'm the CTO of [SkedGo Pty Ltd](https://skedgo.com), a small-to-medium sized company building an urban mobility platform and front-end apps, including [TripGo](https://skedgo.com/tripgo).
 
-Longplay is my first indie app. I like listening to entire music albums. The app therefore came out of my personal need for wanting quick access to just the complete albums in my music library - without all those albums where I've just added a single song or two. I built an initial version for myself in 2015, shipped Version 1.0 in August 2020. Version 2.0 shipped in August 2023.
+Longplay is my first indie app. I like listening to entire music albums. The app therefore came out of my personal need for wanting quick access to just the complete albums in my music library - without all those albums where I've just added a single song or two. I built an initial version for myself in 2015, shipped Version 1.0 in August 2020. Version 2.0 shipped in August 2023. A macOS version is in the works and available as ["Early Access" on Gumroad](https://buy.longplay.app/).
 
 ---
 
