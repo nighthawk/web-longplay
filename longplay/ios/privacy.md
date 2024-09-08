@@ -6,9 +6,9 @@ redirect_from:
 permalink: /privacy/
 ---
 
-Longplay collects no data about you or what you play through it. The app is distributed through Apple's iOS App Stores, where you are subject to the default, anonymous [App Analytics](https://developer.apple.com/app-store/app-analytics) and crash reporting collection provided by Apple. You can opt-in to or opt-out of this when prompted via iOS.
+Longplay collects no personal data about you or what you play through it. The app is distributed through Apple's iOS App Stores, where you are subject to the default, anonymous [App Analytics](https://developer.apple.com/app-store/app-analytics) and crash reporting collection provided by Apple. You can opt-in to or opt-out of this when prompted via iOS.
 
-Longplay does not use any third-party analytics or crash reporting services.
+Longplay uses an third-party analytics services called [TelemetryDeck](https://telemetrydeck.com) to report usage statistics, such as number of albums and playlists in your library, which sort/size settings, or widgets are used. All of this is anonymised.
 
 If you enable the optional iCloud sync feature, your album collections, ratings and playback statistic will be stored in your iCloud account. This data is not accessible to the developer, and is only used to sync your data between your devices.
 
