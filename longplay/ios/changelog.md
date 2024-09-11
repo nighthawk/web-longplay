@@ -6,6 +6,24 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.3, 12 September 2024
+
+> 🎶 This is a story about control 🎶
+
+Hello iOS 18
+
+- New "Album Shuffle" button for Control Centre or Lock Screen (iOS 18 only)
+- Album purity playback mode
+
+Also:
+- Require iOS 17
+- Widgets are now tint-friendly (iOS 18 only)
+- Dark & tint-friendly app icon (iOS 18 only)
+- Pull-to-refresh while on "Random" sorting will reshuffle the wall
+- Fixes wrong album title when scrobbling while listening to playlists
+- Fixes colouring issue in album queue
+- Tweak contrast of collection list colours
+
 ## 2.2.7, 8 August 2024
 
 - Improves the welcome screen on iPad
@@ -49,7 +67,7 @@ Fixed:
 
 ## 2.2.2, 20 Feb 2024
 
-🎶 I thought you'd always be… my zero… 🎶
+> 🎶 I thought you'd always be… my zero… 🎶
 
 Fixed all currently known issues:
 
