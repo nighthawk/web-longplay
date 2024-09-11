@@ -4,6 +4,16 @@ title: visionOS Changelog
 permalink: /visionos/changelog/
 ---
 
+## 2.3, 12 September 2024
+
+New:
+- Album purity playback mode
+
+Also:
+- Pull-to-refresh while on "Random" sorting will reshuffle the wall
+- Fixes wrong album title when scrobbling while listening to playlists
+- Fixes colouring issue in album queue
+
 ## 2.2.7, 8 August 2024
 
 - Fixes "Show in Music" links
