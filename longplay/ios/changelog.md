@@ -6,6 +6,12 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.3.1, 15 September 2024
+
+- Tweak background colour of dark icons
+- Addresses some rare stability issues
+- Update German translations
+
 ## 2.3, 12 September 2024
 
 > 🎶 This is a story about control 🎶
