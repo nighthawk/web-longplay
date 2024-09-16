@@ -30,6 +30,8 @@ Also:
 - Fixes colouring issue in album queue
 - Tweak contrast of collection list colours
 
+{% include image_inline.html width='705' url='/images/longplay/v2dot3/bento.jpg' %}
+
 ## 2.2.7, 8 August 2024
 
 - Improves the welcome screen on iPad
