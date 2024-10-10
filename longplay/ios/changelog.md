@@ -6,6 +6,15 @@ redirect_from:
 permalink: /changelog/
 ---
 
+## 2.3.2, 10 October 2024
+
+Fixed:
+- Fix for infinite album shuffle not picking from all albums when 'Random' sort order is selected
+- Fixes issue where sort order could sometimes get messed up after finishing a track or adding an album to a collection
+- Fixes visual glitch of tiny album grid cells on top and bottom of screen on iPhone
+- Fixes albums sometimes not appearing when switching from Slide Over to Full Screen on iPad
+- Minor style fixes for iPad
+
 ## 2.3.1, 15 September 2024
 
 - Tweak background colour of dark icons
