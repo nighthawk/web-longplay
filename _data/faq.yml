@@ -1,96 +1,96 @@
 - group: Basics
   questions:
-  - question: Which albums are displayed?
-    answer: |
-      Longplay's purpose is to make listening to full albums easier, so it displays those albums for which you have (nearly) every song. This is determined by the relative percentage, absolute number of songs you have of that album, and total duration of the songs you have.
-  - question: How do I control playback or view tracks of an album?
-    answer: |
-      Longplay on iPhone (or compact mode on iPad) shows the album artwork full screen. Swipe left to see the Now Playing screen, where you can control playback and view tracks.
-      
-      On iPad when the apps are large, you can use the Now Playing button in the bottom right. On Vision Pro, select the Now Playing control on the bottom of the main screen to switch the app into the smaller Now Playing mode.
-  - question: How do the sort options work?
-    answer: |
-      - _Orderliness_: by artist, then by album; in the settings you can choose for this to fully alphabetic or to use the "sort order" tag in the Music app
-      - _Addiction_: by amount of time spent listening, also considering the date when an album was added
-      - _Brightness_: by the primary colour of the album artwork
-      - _Negligence_: by the time it's been since you've last listened to the album, weighted by the rating
-      - _Memory_: by the time it's been since you've last listened to the album, also considering how much of the album you've listened to
-      - _Recency_: by date added
-      - _Stars_: by the rating you've provided for each song
-      - _Random_: shuffles all albums, re-shuffled every time you tap it
-      
-      The _Dictionary_ in the in-app settings explains these in more detail. On iPhone, you can also long-tap on each sort order to get a explanation.
-    show_in_app: false
+    - question: Which albums are displayed?
+      answer: |
+        Longplay's purpose is to make listening to full albums easier, so it displays those albums for which you have (nearly) every song. This is determined by the relative percentage, absolute number of songs you have of that album, and total duration of the songs you have.
+    - question: How do I control playback or view tracks of an album?
+      answer: |
+        Longplay on iPhone (or compact mode on iPad) shows the album artwork full screen. Swipe left to see the Now Playing screen, where you can control playback and view tracks.
+
+        On iPad when the apps are large, you can use the Now Playing button in the bottom right. On Vision Pro, select the Now Playing control on the bottom of the main screen to switch the app into the smaller Now Playing mode.
+    - question: How do the sort options work?
+      answer: |
+        - _Orderliness_: by artist, then by album; in the settings you can choose for this to fully alphabetic or to use the "sort order" tag in the Music app
+        - _Addiction_: by amount of time spent listening, also considering the date when an album was added
+        - _Brightness_: by the primary colour of the album artwork
+        - _Negligence_: by the time it's been since you've last listened to the album, weighted by the rating
+        - _Memory_: by the time it's been since you've last listened to the album, also considering how much of the album you've listened to
+        - _Recency_: by date added
+        - _Stars_: by the rating you've provided for each song
+        - _Random_: shuffles all albums, re-shuffled every time you tap it
+
+        The _Dictionary_ in the in-app settings explains these in more detail. On iPhone, you can also long-tap on each sort order to get a explanation.
+      show_in_app: false
 
 - group: How to
   questions:
-  - question: Why are my albums greyed out?
-    answer: |
-      When you're not connected to Wi-Fi, albums in your library that you haven't downloaded to your device are faded. If you have a cellular connection and you allowed the Music app to download music over cellular, you will still be able to download and listen to that album though. However, mobile data charges might apply!
-      
-      _Note_: There's an advanced settings in the Settings.app to adjust this setting. You can opt to keep the default behaviour of greying out while you're not on Wi-Fi, to always grey out albums you haven't downloaded, or to never grey them out.
-  - question: Can I hide albums that I don't have downloaded?
-    answer: |
-      Yes, there's a smart collection called "Downloaded", which only shows those albums.
-  - question: It's showing all my kids' albums / meditation / white noise albums and playlists! Can I hide those?
-    answer: |
-      Sure, you can. Long tap on an item you want to hide then select "Hide".
-      
-      Hidden albums are hidden in the "My Library" view. If you add them to a collection, they will not be hidden from that collection; that way you can also make a collection with kids' albums.
-      
-      If you later want to see hidden albums in the "My Library" view again, tap the Collection picker at the top (left) of the screen, tap the filter icon next to "My Library" and toggle "Hidden things", and they'll re-appear. You can then also un-hide with a long tap and selecting "Unhide".
-  - question: How do I add missing album artwork?
-    answer: |
-      You can add album artwork via iTunes / the Music app on your computer via two ways:
-      
-      - Using Apple's catalogue by selecting "File" > "Library" > "Get Album Artwork".
-      - Manually, by finding the artwork online, and then in iTunes by right-clicking the album, selecting "Get Info", navigating to the "Artwork" tab and then pressing "Add Artwork".
-  - question: Can I queue up multiple albums?
-    answer: |
-      You sure can. Long tap on an album and select "Play Next" or "Play Later". You can also queue up multiple albums by long tapping on an album in the albums list and selecting "Play Next" or "Play Later".
-  - question: How do I populate release year information?
-    answer: |
-      Release year information is not yet automatically populated in Longplay on iOS. There is a Shortcut to populate it, which can be found in the in-app settings under Siri & Shortcuts > "Populate Release Years". You can set/overwrite the year manually via long-tap on Album > Get Info. And it also syncs from the Mac app (currently in [Early Access](https://adrianschoenig.gumroad.com/l/longplay)).
+    - question: Why are my albums greyed out?
+      answer: |
+        When you're not connected to Wi-Fi, albums in your library that you haven't downloaded to your device are faded. If you have a cellular connection and you allowed the Music app to download music over cellular, you will still be able to download and listen to that album though. However, mobile data charges might apply!
+
+        _Note_: There's an advanced settings in the Settings.app to adjust this setting. You can opt to keep the default behaviour of greying out while you're not on Wi-Fi, to always grey out albums you haven't downloaded, or to never grey them out.
+    - question: Can I hide albums that I don't have downloaded?
+      answer: |
+        Yes, there's a smart collection called "Downloaded", which only shows those albums.
+    - question: It's showing all my kids' albums / meditation / white noise albums and playlists! Can I hide those?
+      answer: |
+        Sure, you can. Long tap on an item you want to hide then select "Hide".
+
+        Hidden albums are hidden in the "My Library" view. If you add them to a collection, they will not be hidden from that collection; that way you can also make a collection with kids' albums.
+
+        If you later want to see hidden albums in the "My Library" view again, tap the Collection picker at the top (left) of the screen, tap the filter icon next to "My Library" and toggle "Hidden things", and they'll re-appear. You can then also un-hide with a long tap and selecting "Unhide".
+    - question: How do I add missing album artwork?
+      answer: |
+        You can add album artwork via iTunes / the Music app on your computer via two ways:
+
+        - Using Apple's catalogue by selecting "File" > "Library" > "Get Album Artwork".
+        - Manually, by finding the artwork online, and then in iTunes by right-clicking the album, selecting "Get Info", navigating to the "Artwork" tab and then pressing "Add Artwork".
+    - question: Can I queue up multiple albums?
+      answer: |
+        You sure can. Long tap on an album and select "Play Next" or "Play Later". You can also queue up multiple albums by long tapping on an album in the albums list and selecting "Play Next" or "Play Later".
+    - question: How do I populate release year information?
+      answer: |
+        Release year information is not yet automatically populated in Longplay on iOS. There is a Shortcut to populate it, which can be found in the in-app settings under Siri & Shortcuts > "Populate Release Years". You can set/overwrite the year manually via long-tap on Album > Get Info. And it also syncs from the Mac app (currently in [Early Access](https://buy.longplay.app/l/longplay)).
 
 - group: General
   questions:
-  - question: What does Longplay store in iCloud?
-    answer: |
-      Longplay stores your collections, your hidden albums and playlists, your ratings, and your play counts in iCloud. It does not store any of your music.
-  - question: Why does the Music app not reflect what is being played in Longplay?
-    answer: |
-      Longplay uses its own music player to enable various features such as the infinite album shuffle, album queue, interactive widgets, CarPlay, and the in-app track list.
+    - question: What does Longplay store in iCloud?
+      answer: |
+        Longplay stores your collections, your hidden albums and playlists, your ratings, and your play counts in iCloud. It does not store any of your music.
+    - question: Why does the Music app not reflect what is being played in Longplay?
+      answer: |
+        Longplay uses its own music player to enable various features such as the infinite album shuffle, album queue, interactive widgets, CarPlay, and the in-app track list.
 
-      Regardless, Apple Music stays informed of any albums and tracks that you listened to in Longplay. This will be reflected in your play counts, last played dates, and recommendations. However, it will not be reflected in your "Recently Played" on Apple Music.
-  - question: Does Longplay support Spotify?
-    answer: |
-      No, support for Spotify is not provided. Longplay is a passion project of mine, and I don't use Spotify myself currently. If you're interested in a Spotify version, please suggest or vote for it on the [feedback page](https://feedback.longplay.app/).
-  - question: Is there a beta?
-    answer: |
-      Not at the moment. The currently released version on the App Store is the most up-to-date.
-  - question: Is there a macOS version?
-    answer: |
-      Not yet. It is in the works, and available in [_Early Access_ on Gumroad](https://adrianschoenig.gumroad.com/l/longplay).
-  - question: Is there a tip jar?
-    answer: |
-      Yes, there is. You can find it in the in-app settings. I appreciate your support!
+        Regardless, Apple Music stays informed of any albums and tracks that you listened to in Longplay. This will be reflected in your play counts, last played dates, and recommendations. However, it will not be reflected in your "Recently Played" on Apple Music.
+    - question: Does Longplay support Spotify?
+      answer: |
+        No, support for Spotify is not provided. Longplay is a passion project of mine, and I don't use Spotify myself currently. If you're interested in a Spotify version, please suggest or vote for it on the [feedback page](https://feedback.longplay.app/).
+    - question: Is there a beta?
+      answer: |
+        Not at the moment. The currently released version on the App Store is the most up-to-date.
+    - question: Is there a macOS version?
+      answer: |
+        Not yet. It is in the works, and available in [_Early Access_](/mac).
+    - question: Is there a tip jar?
+      answer: |
+        Yes, there is. You can find it in the in-app settings. I appreciate your support!
 
 - group: Troubleshooting
   questions:
-  - question: Why are some albums not displayed?
-    answer: |
-      Longplay only displays albums for which you have (nearly) every song. This is determined by the relative percentage, absolute number of songs you have of that album, and total duration of the songs you have.
+    - question: Why are some albums not displayed?
+      answer: |
+        Longplay only displays albums for which you have (nearly) every song. This is determined by the relative percentage, absolute number of songs you have of that album, and total duration of the songs you have.
 
-      If recently added albums are not appearing, you can also trigger an album reload by pulling to refresh on the album wall.
-  - question: The artwork on the album wall is very dark and has low contrast.
-    answer: |
-      By default, Longplay will fade out albums that you haven't downloaded to your device while you are not connected to WiFi. This behavious can be adjusted using the setting called "Fade Streaming". If you don't want to see this effect, you can turn set this to "Never".
-  - question: Some of my album artwork is not showing up!
-    answer: |
-      This can happen if the Music app did not yet download your artwork. Open the Music app, go to Library and then Albums, the artwork might be missing at first but it's downloaded as soon as you scroll through the list. If you then switch back to Longplay they should start appearing.
-  - question: I am tapping albums but all I see is a spinning indicator and playback doesn't start.
-    answer: |
-      This can happen if you removed the Music app from your device. Go to the App Store and make sure it's installed. Then playback should work from Longplay.
-  - question: I am tapping albums but this occasionally doesn't trigger playback.
-    answer: |
-      There is a known issue with the underlying framework which can cause this intermittently. This has been reported to Apple (FB13300366) and might get fixed in a future iOS update. Briefly switching back to another album and retrying the previous album usually fixes the issue; or if it's more persistent try force quitting the app.
+        If recently added albums are not appearing, you can also trigger an album reload by pulling to refresh on the album wall.
+    - question: The artwork on the album wall is very dark and has low contrast.
+      answer: |
+        By default, Longplay will fade out albums that you haven't downloaded to your device while you are not connected to WiFi. This behavious can be adjusted using the setting called "Fade Streaming". If you don't want to see this effect, you can turn set this to "Never".
+    - question: Some of my album artwork is not showing up!
+      answer: |
+        This can happen if the Music app did not yet download your artwork. Open the Music app, go to Library and then Albums, the artwork might be missing at first but it's downloaded as soon as you scroll through the list. If you then switch back to Longplay they should start appearing.
+    - question: I am tapping albums but all I see is a spinning indicator and playback doesn't start.
+      answer: |
+        This can happen if you removed the Music app from your device. Go to the App Store and make sure it's installed. Then playback should work from Longplay.
+    - question: I am tapping albums but this occasionally doesn't trigger playback.
+      answer: |
+        There is a known issue with the underlying framework which can cause this intermittently. This has been reported to Apple (FB13300366) and might get fixed in a future iOS update. Briefly switching back to another album and retrying the previous album usually fixes the issue; or if it's more persistent try force quitting the app.

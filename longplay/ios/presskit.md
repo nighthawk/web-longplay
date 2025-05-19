@@ -6,7 +6,7 @@ redirect_from:
 permalink: /presskit/
 ---
 
-Longplay is an app for **music lovers with a sizable Apple Music or iTunes library** who like to listen to entire albums. 
+Longplay is an app for **music lovers with a sizable Apple Music or iTunes library** who like to listen to entire albums.
 
 {% include image_inline.html width='705' url='/images/longplay/banner.jpg' %}
 
@@ -89,7 +89,7 @@ More screenshots, including iPad, and with frames in the [Download](/longplay/pr
 
 My name is Adrian Schönig. I'm based in Sydney, Australia. As my main occupation, I'm the CTO of [SkedGo Pty Ltd](https://skedgo.com), a small-to-medium sized company building an urban mobility platform and front-end apps, including [TripGo](https://skedgo.com/tripgo).
 
-Longplay is my first indie app. I like listening to entire music albums. The app therefore came out of my personal need for wanting quick access to just the complete albums in my music library - without all those albums where I've just added a single song or two. I built an initial version for myself in 2015, shipped Version 1.0 in August 2020. Version 2.0 shipped in August 2023. A macOS version is in the works and available as ["Early Access" on Gumroad](https://buy.longplay.app/).
+Longplay is my first indie app. I like listening to entire music albums. The app therefore came out of my personal need for wanting quick access to just the complete albums in my music library - without all those albums where I've just added a single song or two. I built an initial version for myself in 2015, shipped Version 1.0 in August 2020. Version 2.0 shipped in August 2023. A [macOS version](/mac) is in the works and available as ["Early Access" on Gumroad](https://buy.longplay.app/l/longplay).
 
 ---
 
